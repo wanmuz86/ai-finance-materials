@@ -1,0 +1,501 @@
+Vendor_ID,Vendor_Name,Country,Tax_ID,Bank_Account,Email,Phone,Address,Payment_Terms,Category,Active_Flag
+V2384,Vanguard Office Supplies Sdn Bhd,MY,MY-3753498424,,billing@vanguard.office.supplies.bizmail.co,+60 11-213 3585,,N30,Maint/Repair,Y
+V2388,Sunrise  Utilities  Berhad,MY,MY-5418546900,346924-89-572883,billing@sunrise.utilities.berhad.bizmail.co,+60 17-187 1169,"83, Jalan Setia, Johor Bahru",30 Days,Logistics,N
+V2064,SilverLine Security Services,MY,,862569-94-646781,billing@silverline.security.serv.example.com,,"103, Jalan Damai, Cyberjaya",Net30,Utility,Y
+V2433, Skyline Telecom Services ,MY,,805796-93-154382,billing@skyline.telecom.services.bizmail.co,+60 16-380 2994,"120, Jalan Damai, Petaling Jaya",,Utilities,Y
+V2099, EverClean Facility Management ,MY,,427766-50-869864,billing@everclean.facility.manag.bizmail.co,+60 12-878 7070,"28, Jalan Melur, Shah Alam",COD,Office supply,N
+V2382,NorthStar Logistics,MY,MY-8978533723,512064-42-415504,,+60 13-404 4446,"42, Jalan Damai, Cyberjaya",Net 45,Maint/Repair,Y
+V2093, Sunrise Utilities Berhad ,MY,MY-5800746936,838237-67-324993,billing@sunrise.utilities.berhad.bizmail.co,+60 17-304 3009,,Net30,Utilities,N
+V2339, SilverLine Security Services ,MY,MY-8560600955,,billing@silverline.security.serv.vendor-mail.com,+60 19-274 4763,,,Professional Services,N
+V2000,NorthStar Logistics,MY,MY-2051802512,,,+60 18-189 7912,,Net30,Logistics / Delivery,Y
+V2254,brightspark electrical services,MY,MY-6641362499,844943-44-734792,billing@brightspark.electrical.s.bizmail.co,+60 15-865 9535,"106, Jalan Kenanga, Shah Alam",NET 30,Maintenance / Repairs,Y
+V2110,TEALTECH SOLUTIONS SDN BHD,MY,MY-8375996697,,billing@tealtech.solutions.sdn.b.example.com,+60 12-516 8793,"52, Jalan Melur, Petaling Jaya",NET-45,Software / Subscription,Y
+V2008,EVERCLEAN FACILITY MANAGEMENT,MY,MY-1540137296,676510-31-377932,billing@everclean.facility.manag.finance-vendors.net,+60 18-873 4295,"103, Jalan Setia, Cyberjaya",Net 45,Utility,Y
+V2431,GREENLEAF PROFESSIONAL SERVICES,MY,MY-7980337876,331890-39-617795,billing@greenleaf.professional.s.example.com,+60 19-314 1116,,Immediate,Office supply,N
+V2020,Metro Maintenance Co.,MY,,501124-14-593554,billing@metro.maintenance.co.finance-vendors.net,+60 13-328 1387,"103, Jalan Melur, Petaling Jaya",Net30,Maint/Repair,Y
+V2473,RapidFix IT Services,MY,,544638-41-354125,billing@rapidfix.it.services.bizmail.co,+60 10-814 3422,"117, Jalan Setia, Shah Alam",NET-45,Professional Services,Y
+V2173, RapidFix IT Services ,MY,MY-7376649850,626797-51-507247,billing@rapidfix.it.services.example.com,+60 13-130 5602,,COD,Marketing,Y
+V2459,CloudNine Software Pte Ltd,SG,SG-72031070,,billing@cloudnine.software.pte.l.finance-vendors.net,+65 9055 7542,"102, Jalan Meranti, Kuala Lumpur",NET-45,Software / Subscription,Y
+V2418, SilverLine Security Services ,MY,,,billing@silverline.security.serv.example.com,+60 16-212 2980,"75, Jalan Meranti, George Town",N30,Office supply,Y
+V2416,SILVERLINE SECURITY SERVICES,MY,,532068-20-196729,,+60 17-319 8309,,,Utility,Y
+V2018,Skyline Telecom Services,MY,,824586-29-672092,,+60 18-251 8041,,NET-45,Utilities,Y
+V2496,cloudnine software pte ltd,SG,SG-66641896,,billing@cloudnine.software.pte.l.finance-vendors.net,+65 6668 7554,"66, Jalan Setia, Johor Bahru",N30,Software / Subscription,Y
+V2210,METRO MAINTENANCE CO.,MY,MY-2924568778,568784-50-224473,billing@metro.maintenance.co.example.com,,"143, Jalan Kenari, Kuala Lumpur",Net30,Maint/Repair,Y
+V2016,Crescent Media House,MY,MY-7676965974,208618-27-377312,,,"70, Jalan Melur, George Town",30 Days,Logistics,Y
+V2104,BlueWave Marketing Agency,MY,MY-5895322075,434002-30-512042,billing@bluewave.marketing.agenc.bizmail.co,+60 18-948 9351,"182, Jalan Kenari, Petaling Jaya",COD,Marketing / Advertising,Y
+V2117, AquaPure Water Filters ,MY,MY-2947476917,578987-82-160541,billing@aquapure.water.filters.bizmail.co,+60 16-360 1049,"149, Jalan Meranti, Kuala Lumpur",Immediate,Maintenance / Repairs,Y
+V2129,NORTHSTAR LOGISTICS,MY,MY-2034953269,364679-55-380310,billing@northstar.logistics.example.com,+60 16-570 4984,"58, Jalan Melur, Cyberjaya",Net30,Logistics / Delivery,Y
+V2316,SilverLine Security Services,MY,MY-6718809037,936997-47-403257,,+60 19-867 5981,"145, Jalan Melur, Kuala Lumpur",COD,Professional Services,Y
+V2082,AquaPure Water Filters,MY,MY-3597009738,154714-92-603935,billing@aquapure.water.filters.example.com,+60 18-971 3042,"196, Jalan Kenanga, Petaling Jaya",COD,Maintenance / Repairs,N
+V2217,Skyline Telecom Services,MY,MY-2943878598,808340-81-335203,billing@skyline.telecom.services.finance-vendors.net,+60 14-809 1769,"100, Jalan Damai, Cyberjaya",Net 45,Utilities,Y
+V2346,northstar logistics,MY,MY-3993944892,314178-76-757746,,+60 18-235 8764,"114, Jalan Setia, Cyberjaya",NET 30,Logistics / Delivery,Y
+V2203,Harbor Freight & Couriers,MY,,753050-87-834764,,+60 11-623 2928,"28, Jalan Damai, Shah Alam",30 Days,Maint/Repair,Y
+V2319,GreenLeaf Professional Services,MY,MY-2482088956,892182-24-155074,,+60 14-587 9724,,Immediate,Utility,Y
+V2108,EverClean Facility Management,MY,MY-8394492221,,billing@everclean.facility.manag.finance-vendors.net,+60 16-938 6654,"38, Jalan Melur, Kuala Lumpur",NET-45,Maintenance / Repairs,Y
+V2237,Sunrise Utilities BHD,MY,MY-9256438734,172187-39-496583,billing@sunrise.utilities.berhad.example.com,,"130, Jalan Setia, Johor Bahru",N30,Utilities,Y
+V2241,Skyline Telecom Services,MY,MY-7678293431,,billing@skyline.telecom.services.bizmail.co,+60 16-853 3262,"169, Jalan Meranti, Cyberjaya",30 Days,Utilities,Y
+V2348,Peninsula Printing & Stationery,MY,,,billing@peninsula.printing.stati.vendor-mail.com,+60 14-286 3873,"178, Jalan Setia, Shah Alam",N30,Office Supplies,Y
+V2400,BrightSpark  Electrical  Services,MY,MY-6573353634,577100-95-571804,billing@brightspark.electrical.s.bizmail.co,+60 12-316 4032,,NET-45,Maintenance / Repairs,N
+V2406,Crescent Media House,MY,MY-8350343413,973548-96-784196,billing@crescent.media.house.finance-vendors.net,+60 12-736 4394,"192, Jalan Meranti, Cyberjaya",COD,Marketing / Advertising,Y
+V2097,AquaPure Water Filters,MY,MY-2076341629,677599-45-231250,billing@aquapure.water.filters.example.com,+60 12-706 3526,,Net 45,Maintenance / Repairs,Y
+V2423,Zenith Catering,MY,,668096-31-399212,,+60 11-257 6026,"174, Jalan Kenanga, Kuala Lumpur",Net 45,Other / Unclear,Y
+V2444,Vanguard Office Supplies Sdn Bhd,MY,,216359-53-320449,billing@vanguard.office.supplies.vendor-mail.com,+60 15-776 3807,"160, Jalan Damai, Cyberjaya",Net30,Office Supplies,Y
+V2434,TealTech Solutions Sdn. Bhd,MY,MY-7581652053,510893-34-450964,,+60 10-855 4696,"109, Jalan Meranti, Shah Alam",30 Days,Software,Y
+V2024, SilverLine Security Services ,MY,MY-7490442894,934692-31-790855,,+60 19-443 2530,"193, Jalan Kenanga, Cyberjaya",NET-45,Professional Services,Y
+V2280, Skyline Telecom Services ,MY,MY-5261905194,800722-12-494900,billing@skyline.telecom.services.example.com,+60 10-390 4288,"159, Jalan Melur, Kuala Lumpur",COD,Utilities,Y
+V2336,TealTech Solutions Sdn Bhd,MY,MY-2224342797,450533-88-944264,billing@tealtech.solutions.sdn.b.finance-vendors.net,,"138, Jalan Kenanga, Shah Alam",NET 30,Software / Subscription,Y
+V2284,Omega Energy Solutions,MY,MY-5888143707,649249-27-550955,billing@omega.energy.solutions.vendor-mail.com,+60 19-261 6201,,,Utilities,Y
+V2363,omega energy solutions,MY,MY-5113495206,,billing@omega.energy.solutions.finance-vendors.net,+60 18-333 7677,,Net 45,Office supply,Y
+V2405,Harbor Freight & Couriers,MY,MY-5567743118,537400-70-222621,billing@harbor.freight.couriers.bizmail.co,+60 16-121 3643,"50, Jalan Damai, Petaling Jaya",COD,Logistics / Delivery,Y
+V2338,harbor freight & couriers,MY,,286710-59-491627,,+60 15-376 4313,"9, Jalan Setia, George Town",NET 30,Logistics / Delivery,Y
+V2419,RapidFix IT Services,MY,MY-1613619380,542244-16-419987,billing@rapidfix.it.services.vendor-mail.com,+60 17-102 3004,"18, Jalan Meranti, Johor Bahru",COD,Marketing,N
+V2025,Vanguard Office Supplies Sdn Bhd,MY,,991014-19-577538,billing@vanguard.office.supplies.vendor-mail.com,+60 16-606 7547,,NET 30,Office Supplies,N
+V2121,AquaPure Water Filters,MY,,704095-50-705526,billing@aquapure.water.filters.bizmail.co,+60 12-776 9540,,NET-45,Maintenance / Repairs,Y
+V2141,HARBOR FREIGHT & COURIERS,MY,,248557-54-427040,billing@harbor.freight.couriers.vendor-mail.com,+60 15-587 2599,"179, Jalan Damai, Petaling Jaya",Net30,Logistics / Delivery,Y
+V2026,metro maintenance co.,MY,MY-2995226582,989545-25-578634,,+60 18-672 6198,"114, Jalan Kenari, Cyberjaya",,Utility,Y
+V2482,BrightSpark Electrical Services,MY,MY-3004903816,221297-71-794830,billing@brightspark.electrical.s.vendor-mail.com,+60 11-208 8125,"8, Jalan Kenanga, Petaling Jaya",Immediate,Maint/Repair,Y
+V2257,skyline telecom services,MY,MY-7587552692,605048-79-338161,billing@skyline.telecom.services.finance-vendors.net,+60 16-366 3551,"1, Jalan Kenari, Shah Alam",Net 45,Prof Services,Y
+V2355,Peninsula Printing & Stationery,MY,MY-2990510491,,,+60 17-227 5713,"126, Jalan Setia, Cyberjaya",30 Days,Office Supplies,Y
+V2052,AlphaOmega Consulting,MY,MY-8556573246,137642-89-171744,billing@alphaomega.consulting.bizmail.co,+60 11-544 2612,"181, Jalan Meranti, Johor Bahru",N30,Logistics,Y
+V2468,Metro Maintenance Co.,MY,MY-9043210080,292461-66-760374,,+60 11-297 1853,"37, Jalan Kenanga, Shah Alam",Net30,Maintenance / Repairs,Y
+V2088,BLUEWAVE MARKETING AGENCY,MY,MY-9347720574,,billing@bluewave.marketing.agenc.vendor-mail.com,+60 15-417 9444,"140, Jalan Damai, Petaling Jaya",NET 30,Marketing / Advertising,Y
+V2386, BrightSpark Electrical Services ,MY,,276953-16-520515,billing@brightspark.electrical.s.bizmail.co,,"44, Jalan Kenari, Kuala Lumpur",NET 30,Logistics,N
+V2187,Skyline Telecom Services,MY,MY-6429425484,699809-87-596025,,+60 12-733 7581,,Net 45,Utilities,Y
+V2136,Peninsula Printing & Stationery,MY,MY-1271730355,541557-48-607753,billing@peninsula.printing.stati.bizmail.co,+60 13-838 9123,"51, Jalan Damai, Kuala Lumpur",N30,Office Supplies,N
+V2042,metro maintenance co.,MY,MY-1672302490,822858-86-592738,billing@metro.maintenance.co.vendor-mail.com,+60 14-819 8438,,30 Days,Maintenance / Repairs,N
+V2443,TealTech Solutions Sdn Bhd,MY,,,billing@tealtech.solutions.sdn.b.bizmail.co,+60 15-967 5029,,NET 30,Software,Y
+V2426,Omega  Energy  Solutions,MY,MY-3149340695,249282-57-666692,billing@omega.energy.solutions.vendor-mail.com,+60 16-668 8401,,COD,Maint/Repair,Y
+V2225,SilverLine  Security  Services,MY,MY-3837784389,659381-38-243006,billing@silverline.security.serv.bizmail.co,+60 12-405 7113,"3, Jalan Kenari, George Town",N30,Professional Services,Y
+V2183,EverClean Facility Management,MY,MY-2664416298,499974-57-295646,billing@everclean.facility.manag.bizmail.co,+60 14-331 5400,"39, Jalan Setia, Cyberjaya",Net30,Office supply,N
+V2087,Zenith Catering,MY,MY-5364727160,461551-40-868544,billing@zenith.catering.example.com,+60 15-236 1726,"87, Jalan Setia, Shah Alam",COD,Logistics,Y
+V2236,tealtech solutions sdn bhd,MY,MY-9410569618,690982-91-119524,billing@tealtech.solutions.sdn.b.bizmail.co,+60 13-559 8723,"44, Jalan Kenanga, Johor Bahru",N30,Software / Subscription,Y
+V2460, SilverLine Security Services ,MY,MY-9944478245,848244-66-247068,billing@silverline.security.serv.bizmail.co,+60 12-958 1295,"46, Jalan Melur, Kuala Lumpur",,Logistics,Y
+V2223,BlueWave Marketing Agency,MY,MY-2424706705,,,+60 18-172 4729,"105, Jalan Damai, Johor Bahru",Immediate,Utility,Y
+V2065,BrightSpark Electrical Services,MY,MY-1282103057,,billing@brightspark.electrical.s.bizmail.co,+60 19-643 5831,"155, Jalan Damai, Kuala Lumpur",Net30,Maintenance / Repairs,N
+V2245,Crescent Media House,MY,MY-5314945131,,billing@crescent.media.house.example.com,+60 15-219 9409,"138, Jalan Kenari, Petaling Jaya",COD,Utility,Y
+V2342,SilverLine Security Services,MY,MY-7248493644,837290-61-293929,billing@silverline.security.serv.bizmail.co,+60 10-981 2158,"177, Jalan Melur, George Town",NET 30,Prof Services,Y
+V2017,CloudNine Software Pte Ltd,SG,SG-16818112,,billing@cloudnine.software.pte.l.bizmail.co,,"34, Jalan Setia, Petaling Jaya",N30,Logistics,N
+V2287,Sunrise Utilities Berhad,MY,,115743-44-533108,billing@sunrise.utilities.berhad.vendor-mail.com,+60 11-281 8197,"126, Jalan Setia, Petaling Jaya",COD,Software,N
+V2256,Zenith Catering,MY,,564687-90-232552,,+60 10-135 6846,"84, Jalan Damai, Johor Bahru",,Prof Services,Y
+V2095,RapidFix IT Services,MY,MY-4797809576,,billing@rapidfix.it.services.finance-vendors.net,+60 16-943 2208,,Net 45,Professional Services,N
+V2349,AlphaOmega Consulting,MY,,,,+60 10-781 6192,"38, Jalan Melur, Johor Bahru",,Software,Y
+V2014,NorthStar Logistics,MY,,749468-20-539589,billing@northstar.logistics.bizmail.co,+60 13-785 6147,,Immediate,Software,N
+V2145,crescent media house,MY,MY-2816937739,663483-98-776604,billing@crescent.media.house.vendor-mail.com,+60 17-395 3298,,COD,Marketing / Advertising,Y
+V2125,Peninsula  Printing  &  Stationery,MY,MY-8081204252,477114-75-621433,billing@peninsula.printing.stati.finance-vendors.net,+60 15-308 7073,"12, Jalan Kenari, Shah Alam",N30,Office supply,N
+V2432,Sunrise Utilities Berhad,MY,,804827-97-732262,billing@sunrise.utilities.berhad.example.com,+60 11-230 5253,"59, Jalan Kenari, Cyberjaya",NET-45,Utilities,Y
+V2283,metro maintenance co.,MY,MY-1589530134,646012-96-742198,billing@metro.maintenance.co.vendor-mail.com,+60 19-256 7987,"155, Jalan Melur, Johor Bahru",,Maintenance / Repairs,Y
+V2146, Vanguard Office Supplies Sdn Bhd ,MY,,688861-74-784793,billing@vanguard.office.supplies.finance-vendors.net,+60 17-600 3740,,NET 30,Office Supplies,Y
+V2288,TealTech Solutions Sdn Bhd,MY,MY-6638851791,878533-83-722650,billing@tealtech.solutions.sdn.b.example.com,+60 17-567 1694,"63, Jalan Kenari, George Town",Immediate,Software / Subscription,N
+V2070,RapidFix IT Services,MY,MY-1225953184,,billing@rapidfix.it.services.example.com,+60 16-597 8242,"56, Jalan Kenari, Kuala Lumpur",Net 45,Professional Services,Y
+V2398,SilverLine  Security  Services,MY,,414985-29-233997,billing@silverline.security.serv.bizmail.co,+60 18-537 5841,"142, Jalan Meranti, Kuala Lumpur",,Office supply,N
+V2007,AquaPure Water Filters,MY,,269396-79-916449,billing@aquapure.water.filters.example.com,+60 17-119 2832,"79, Jalan Kenanga, Kuala Lumpur",30 Days,Maintenance / Repairs,Y
+V2325,BlueWave Marketing Agency,MY,MY-3763116394,850151-43-208304,,,"199, Jalan Damai, Kuala Lumpur",COD,Marketing / Advertising,Y
+V2428,BrightSpark  Electrical  Services,MY,MY-4566962221,393033-65-321092,billing@brightspark.electrical.s.bizmail.co,+60 15-750 5282,"182, Jalan Damai, Petaling Jaya",30 Days,Logistics,Y
+V2103,BLUEWAVE MARKETING AGENCY,MY,MY-9327720702,308727-87-633853,billing@bluewave.marketing.agenc.example.com,,,Net 45,Maint/Repair,N
+V2096,SilverLine Security Services,MY,MY-3524521602,235300-65-627290,billing@silverline.security.serv.example.com,+60 18-256 5982,,Net 45,Professional Services,Y
+V2060,Harbor Freight & Couriers,MY,,527940-45-134305,billing@harbor.freight.couriers.vendor-mail.com,+60 13-975 6942,,Net 45,Marketing,Y
+V2235,Harbor Freight and Couriers,MY,MY-7351460539,,,+60 10-349 1706,,N30,Logistics / Delivery,Y
+V2234,Zenith Catering,MY,MY-9021793855,605529-87-106918,billing@zenith.catering.vendor-mail.com,+60 13-178 9430,"55, Jalan Kenanga, Shah Alam",N30,Other / Unclear,Y
+V2331, NorthStar Logistics ,MY,MY-3644104389,,billing@northstar.logistics.bizmail.co,+60 16-432 2979,"148, Jalan Kenari, Shah Alam",Net 45,Logistics / Delivery,Y
+V2092,RapidFix  IT  Services,MY,MY-9729028480,,billing@rapidfix.it.services.bizmail.co,+60 11-687 3255,"102, Jalan Melur, Cyberjaya",NET-45,Professional Services,Y
+V2195,EverClean Facility Management,MY,MY-7092693247,137034-84-842464,billing@everclean.facility.manag.vendor-mail.com,+60 13-802 9759,"122, Jalan Setia, Petaling Jaya",,Maintenance / Repairs,Y
+V2161,rapidfix it services,MY,MY-9046449694,223791-13-451284,billing@rapidfix.it.services.bizmail.co,+60 14-829 2262,"131, Jalan Melur, Kuala Lumpur",COD,Professional Services,Y
+V2226,Omega Energy Solutions,MY,MY-5660584367,,billing@omega.energy.solutions.bizmail.co,+60 18-245 3637,,NET-45,Utilities,Y
+V2126,peninsula printing & stationery,MY,,,billing@peninsula.printing.stati.vendor-mail.com,+60 15-363 9005,"165, Jalan Setia, Johor Bahru",COD,Software,Y
+V2292,SilverLine Security Services,MY,MY-1871241447,365406-11-580921,billing@silverline.security.serv.finance-vendors.net,+60 10-722 9084,,COD,Utility,N
+V2294,NorthStar  Logistics,MY,MY-3414532686,885734-84-477685,billing@northstar.logistics.example.com,+60 15-477 7208,"195, Jalan Damai, George Town",Net30,Prof Services,Y
+V2272,Crescent Media House,MY,MY-6213781637,880746-42-477496,billing@crescent.media.house.finance-vendors.net,+60 10-843 1567,"153, Jalan Meranti, George Town",N30,Marketing / Advertising,Y
+V2118, BrightSpark Electrical Services ,MY,,906325-27-903028,billing@brightspark.electrical.s.finance-vendors.net,+60 16-559 7184,"175, Jalan Setia, George Town",N30,Logistics,Y
+V2168,Skyline Telecom Services,MY,MY-6186758088,377880-25-194813,,+60 19-141 4522,"84, Jalan Kenanga, Kuala Lumpur",30 Days,Prof Services,Y
+V2164,ALPHAOMEGA CONSULTING,MY,MY-5329194647,,billing@alphaomega.consulting.bizmail.co,+60 13-575 7033,"127, Jalan Kenanga, Cyberjaya",,Professional Services,Y
+V2067,rapidfix it services,MY,MY-5819946657,797660-64-856086,,+60 14-460 2697,"55, Jalan Kenanga, Cyberjaya",COD,Professional Services,Y
+V2495,BlueWave Marketing Agency,MY,MY-9576178517,635392-36-821347,,+60 13-137 4081,,30 Days,Marketing / Advertising,Y
+V2105,AlphaOmega Consulting,MY,,422623-98-759827,,+60 19-691 4728,"150, Jalan Damai, Shah Alam",,Logistics,Y
+V2045,Omega Energy Solutions,MY,MY-6047405755,563711-45-290305,billing@omega.energy.solutions.finance-vendors.net,+60 17-193 8700,"86, Jalan Melur, Cyberjaya",Net30,Utilities,Y
+V2037, EverClean Facility Management ,MY,MY-5694628398,,billing@everclean.facility.manag.bizmail.co,+60 15-584 9698,"191, Jalan Kenari, Petaling Jaya",Net 45,Logistics,Y
+V2200,BLUEWAVE MARKETING AGENCY,MY,MY-7823288650,,billing@bluewave.marketing.agenc.bizmail.co,+60 17-845 9524,"87, Jalan Damai, Cyberjaya",N30,Prof Services,Y
+V2002,Crescent Media House,MY,MY-8429141456,496922-20-678856,billing@crescent.media.house.bizmail.co,+60 11-146 4733,"21, Jalan Kenanga, Kuala Lumpur",Immediate,Prof Services,Y
+V2260,SilverLine Security Services,MY,MY-3113106808,259540-16-660957,,+60 14-375 3048,"187, Jalan Meranti, Shah Alam",Net30,Professional Services,N
+V2074,AQUAPURE WATER FILTERS,MY,MY-2458198451,276299-19-635280,billing@aquapure.water.filters.vendor-mail.com,+60 15-459 3419,,N30,Maintenance / Repairs,Y
+V2334,metro maintenance co.,MY,MY-9751516468,,billing@metro.maintenance.co.example.com,+60 14-456 7861,,30 Days,Maintenance / Repairs,Y
+V2171,ALPHAOMEGA CONSULTING,MY,,276149-83-554197,billing@alphaomega.consulting.finance-vendors.net,+60 16-799 7990,,30 Days,Software,Y
+V2172,silverline security services,MY,,357724-92-409440,billing@silverline.security.serv.finance-vendors.net,,"36, Jalan Damai, Shah Alam",,Professional Services,N
+V2186,Skyline Telecom Services,MY,MY-7527011028,112964-99-753323,billing@skyline.telecom.services.finance-vendors.net,,,Net30,Utilities,Y
+V2469,AQUAPURE WATER FILTERS,MY,MY-7301035934,,,+60 19-354 5966,"115, Jalan Setia, Shah Alam",NET-45,Maint/Repair,Y
+V2114,CloudNine  Software  Pte  Ltd,SG,,445637-48-710754,billing@cloudnine.software.pte.l.example.com,+65 7472 4871,,Net30,Utility,Y
+V2483,CloudNine Software PTE. LTD.,SG,SG-26521948,660509-91-860652,billing@cloudnine.software.pte.l.bizmail.co,+65 9816 2059,"97, Jalan Setia, Cyberjaya",Immediate,Logistics,Y
+V2351,NorthStar Logistics,MY,MY-1172146239,222553-49-126000,billing@northstar.logistics.vendor-mail.com,+60 11-434 1901,"50, Jalan Kenari, George Town",30 Days,Maint/Repair,Y
+V2137,AlphaOmega Consulting,MY,MY-8998080862,551533-93-723266,,+60 13-590 6147,,Immediate,Prof Services,N
+V2267,SilverLine Security Services,MY,MY-7468039211,119629-89-998450,billing@silverline.security.serv.vendor-mail.com,+60 11-774 9830,"49, Jalan Kenari, Cyberjaya",COD,Professional Services,Y
+V2314,Harbor Freight & Couriers,MY,,866418-40-846722,billing@harbor.freight.couriers.finance-vendors.net,+60 19-475 1548,"146, Jalan Damai, Cyberjaya",Net 45,Office supply,Y
+V2362,Sunrise Utilities Berhad,MY,MY-3632627835,171656-22-959398,billing@sunrise.utilities.berhad.example.com,+60 13-388 3814,"138, Jalan Meranti, Cyberjaya",Net30,Software,Y
+V2023,AlphaOmega  Consulting,MY,MY-3381183483,,billing@alphaomega.consulting.finance-vendors.net,+60 12-730 5930,"1, Jalan Melur, Petaling Jaya",30 Days,Utility,N
+V2301,aquapure water filters,MY,,868020-77-425434,billing@aquapure.water.filters.vendor-mail.com,+60 11-941 9456,"34, Jalan Kenanga, Cyberjaya",NET 30,Utility,Y
+V2306,Metro Maintenance Co.,MY,,370587-56-511122,,+60 15-907 6320,"8, Jalan Meranti, Johor Bahru",Net30,Prof Services,N
+V2354,EverClean Facility Management,MY,MY-8542452431,,billing@everclean.facility.manag.bizmail.co,+60 18-573 3243,,Immediate,Prof Services,Y
+V2001,Skyline Telecom Services,MY,MY-2801823908,391704-10-895667,billing@skyline.telecom.services.finance-vendors.net,+60 12-320 6514,,Immediate,Office supply,Y
+V2484,Metro Maintenance Co.,MY,,,,+60 13-862 2902,"33, Jalan Melur, Johor Bahru",NET 30,Maintenance / Repairs,Y
+V2075,crescent media house,MY,MY-3815389788,,billing@crescent.media.house.finance-vendors.net,+60 19-878 8354,"145, Jalan Setia, Cyberjaya",Net 45,Maint/Repair,Y
+V2055,Omega Energy Solutions,MY,MY-2268006448,790203-60-387813,,+60 10-720 9138,"74, Jalan Kenanga, George Town",Net 45,Utilities,Y
+V2169,Peninsula Printing & Stationery,MY,MY-1746756255,996114-67-682959,billing@peninsula.printing.stati.vendor-mail.com,,,N30,Office Supplies,Y
+V2191,EverClean Facility Management,MY,MY-2478538226,371224-98-194782,billing@everclean.facility.manag.finance-vendors.net,,"55, Jalan Kenanga, Cyberjaya",30 Days,Maintenance / Repairs,Y
+V2392,TealTech Solutions SDN. BHD.,MY,,271499-69-557629,,+60 17-141 8233,"182, Jalan Kenari, Johor Bahru",COD,Software / Subscription,Y
+V2036,EverClean Facility Management,MY,MY-6404582459,,billing@everclean.facility.manag.bizmail.co,+60 18-295 2402,,Immediate,Maintenance / Repairs,N
+V2332,omega energy solutions,MY,MY-5813565243,,billing@omega.energy.solutions.bizmail.co,+60 17-349 1666,,Immediate,Utilities,Y
+V2394,AlphaOmega Consulting,MY,MY-5818914408,211222-51-261245,,+60 17-564 5412,"2, Jalan Melur, Kuala Lumpur",COD,Professional Services,Y
+V2138,Omega Energy Solutions,MY,MY-8670238355,691240-35-720995,billing@omega.energy.solutions.vendor-mail.com,+60 18-127 8563,"54, Jalan Damai, Petaling Jaya",Net30,Maint/Repair,N
+V2159,Skyline Telecom Services,MY,MY-2191714875,636141-36-947312,,+60 19-749 2083,"112, Jalan Setia, Shah Alam",NET 30,Utilities,N
+V2371,RapidFix IT Services,MY,MY-3508119100,755520-53-499060,,+60 15-521 6755,,30 Days,Professional Services,Y
+V2211,SilverLine Security Services,MY,MY-7246858055,749863-86-596116,billing@silverline.security.serv.bizmail.co,+60 11-199 4633,,Net 45,Maint/Repair,Y
+V2298,Sunrise Utilities Berhad,MY,MY-8183216649,935981-14-777015,,+60 17-985 9797,"119, Jalan Damai, Cyberjaya",NET 30,Maint/Repair,Y
+V2107,Skyline Telecom Services,MY,MY-6913417379,581992-78-458955,billing@skyline.telecom.services.bizmail.co,+60 13-352 5571,"58, Jalan Melur, Petaling Jaya",30 Days,Logistics,Y
+V2321,NorthStar Logistics,MY,MY-6974959934,885478-40-869983,billing@northstar.logistics.vendor-mail.com,+60 12-420 9972,,NET 30,Logistics / Delivery,Y
+V2151,BrightSpark  Electrical  Services,MY,MY-6880115912,443187-84-102593,billing@brightspark.electrical.s.example.com,+60 17-750 6869,"137, Jalan Damai, Shah Alam",Immediate,Maintenance / Repairs,N
+V2318,rapidfix it services,MY,MY-4009805180,938202-77-134697,billing@rapidfix.it.services.example.com,+60 19-941 3525,"193, Jalan Damai, Johor Bahru",30 Days,Logistics,Y
+V2452,Skyline Telecom Services,MY,MY-5846207636,110151-73-949767,billing@skyline.telecom.services.bizmail.co,+60 16-535 7608,"177, Jalan Kenari, Petaling Jaya",Net 45,Utilities,Y
+V2170,metro maintenance co.,MY,,819622-90-776001,,+60 11-122 2056,,COD,Maintenance / Repairs,Y
+V2054,SilverLine Security Services,MY,MY-3347621138,,billing@silverline.security.serv.bizmail.co,+60 16-806 5097,"78, Jalan Kenanga, Johor Bahru",COD,Professional Services,N
+V2312,Zenith  Catering,MY,MY-6039758047,,billing@zenith.catering.bizmail.co,+60 12-395 3056,,Net30,Other / Unclear,Y
+V2370,Skyline Telecom Services,MY,MY-7312821876,263903-74-158444,billing@skyline.telecom.services.finance-vendors.net,+60 16-731 6779,"73, Jalan Melur, Kuala Lumpur",NET 30,Utilities,Y
+V2413,RapidFix IT Services,MY,MY-2295067571,,billing@rapidfix.it.services.vendor-mail.com,+60 18-390 4501,,,Prof Services,Y
+V2357,Sunrise Utilities Berhad,MY,MY-2528941040,,billing@sunrise.utilities.berhad.example.com,+60 12-883 2548,"43, Jalan Kenari, Petaling Jaya",Net 45,Maint/Repair,Y
+V2239,RapidFix IT Services,MY,MY-3474420092,366881-71-903061,billing@rapidfix.it.services.example.com,+60 18-518 5223,,NET 30,Professional Services,Y
+V2474,NORTHSTAR LOGISTICS,MY,MY-9232949182,714633-20-643725,billing@northstar.logistics.finance-vendors.net,+60 16-358 5951,"137, Jalan Setia, Johor Bahru",NET-45,Logistics,Y
+V2259,CLOUDNINE SOFTWARE PTE LTD,SG,SG-42153442,938817-88-946803,billing@cloudnine.software.pte.l.bizmail.co,+65 9043 9715,"106, Jalan Kenanga, Kuala Lumpur",N30,Software,Y
+V2163,Harbor Freight & Couriers,MY,MY-4547630097,225200-74-806033,billing@harbor.freight.couriers.vendor-mail.com,+60 18-147 7568,,COD,Maint/Repair,Y
+V2454,brightspark electrical services,MY,,133616-98-732672,billing@brightspark.electrical.s.vendor-mail.com,+60 16-390 4373,,,Office supply,Y
+V2193,Zenith Catering,MY,MY-6232168056,645928-89-516444,billing@zenith.catering.example.com,+60 15-674 5631,"28, Jalan Damai, Kuala Lumpur",Net 45,Prof Services,Y
+V2262,VANGUARD OFFICE SUPPLIES SDN BHD,MY,MY-4069538076,564478-41-873449,billing@vanguard.office.supplies.vendor-mail.com,+60 11-633 4415,"175, Jalan Melur, Petaling Jaya",N30,Office Supplies,Y
+V2492, Zenith Catering ,MY,MY-8313199661,,,+60 18-289 7640,"6, Jalan Damai, George Town",,Maint/Repair,Y
+V2263, CloudNine Software Pte Ltd ,SG,SG-36672234,154617-95-328367,billing@cloudnine.software.pte.l.vendor-mail.com,+65 7329 1246,,NET-45,Software / Subscription,N
+V2305,BrightSpark  Electrical  Services,MY,MY-6822362090,307772-95-948612,billing@brightspark.electrical.s.finance-vendors.net,+60 11-932 8672,,NET-45,Logistics,N
+V2066,SilverLine Security Services,MY,MY-8848705807,865054-22-427730,billing@silverline.security.serv.bizmail.co,+60 12-803 8770,,Net30,Office supply,Y
+V2106,Metro Maintenance Co.,MY,MY-4008714405,,billing@metro.maintenance.co.finance-vendors.net,+60 13-520 9221,"121, Jalan Setia, Cyberjaya",NET 30,Maintenance / Repairs,Y
+V2040,alphaomega consulting,MY,MY-8996039244,,,+60 19-744 1878,,NET-45,Professional Services,Y
+V2123,TealTech Solutions Sdn Bhd,MY,MY-3276297510,367382-36-446305,billing@tealtech.solutions.sdn.b.finance-vendors.net,+60 11-648 4120,,Immediate,Software / Subscription,Y
+V2458,Sunrise Utilities Berhad,MY,MY-7604532467,169986-99-861830,billing@sunrise.utilities.berhad.vendor-mail.com,+60 16-880 2986,"20, Jalan Meranti, George Town",Net 45,Utility,Y
+V2368,BlueWave Marketing Agency,MY,MY-9918573705,904857-73-931239,billing@bluewave.marketing.agenc.bizmail.co,+60 17-616 5287,"139, Jalan Kenari, Kuala Lumpur",NET 30,Marketing / Advertising,N
+V2192,Harbor Freight & Couriers,MY,,904858-97-109330,billing@harbor.freight.couriers.vendor-mail.com,+60 19-920 1138,,NET-45,Logistics,N
+V2207,northstar logistics,MY,MY-1684598046,719446-71-941235,billing@northstar.logistics.finance-vendors.net,+60 16-897 6875,"176, Jalan Setia, Shah Alam",COD,Logistics / Delivery,N
+V2378,BlueWave Marketing Agency,MY,MY-8746137515,284533-92-993933,,+60 10-156 2375,"77, Jalan Meranti, Johor Bahru",Net 45,Marketing / Advertising,N
+V2090,BrightSpark  Electrical  Services,MY,MY-4531928910,436814-23-183958,billing@brightspark.electrical.s.bizmail.co,+60 19-834 7981,,COD,Prof Services,Y
+V2154,Metro  Maintenance  Co.,MY,MY-4022360089,,billing@metro.maintenance.co.vendor-mail.com,+60 18-796 8291,,Net 45,Maintenance / Repairs,N
+V2122,Harbor Freight & Couriers,MY,MY-9470922075,803953-58-923975,billing@harbor.freight.couriers.finance-vendors.net,+60 14-485 4012,"122, Jalan Kenanga, Shah Alam",NET-45,Logistics / Delivery,N
+V2160, NorthStar Logistics ,MY,MY-5531313426,790017-32-225245,,,,COD,Prof Services,Y
+V2322,HARBOR FREIGHT & COURIERS,MY,MY-8239165449,860480-46-364132,,,,30 Days,Logistics / Delivery,Y
+V2242,GreenLeaf Professional Services,MY,MY-4035639663,,billing@greenleaf.professional.s.example.com,+60 12-582 8133,,NET-45,Software,Y
+V2480,Vanguard Office Supplies Sdn Bhd,MY,,833232-41-486326,billing@vanguard.office.supplies.finance-vendors.net,+60 13-103 6278,,Net 45,Office Supplies,Y
+V2152,CloudNine Software Pte Ltd,SG,SG-55332729,236937-82-993829,billing@cloudnine.software.pte.l.bizmail.co,+65 9122 1793,,COD,Software / Subscription,Y
+V2202,CloudNine Software Pte Ltd,SG,SG-89715138,794125-23-785315,billing@cloudnine.software.pte.l.example.com,+65 7707 8279,"141, Jalan Melur, Johor Bahru",N30,Software / Subscription,Y
+V2380,greenleaf professional services,MY,,,billing@greenleaf.professional.s.finance-vendors.net,+60 19-157 9034,"180, Jalan Meranti, Petaling Jaya",,Utility,Y
+V2218,CloudNine Software Pte Ltd,SG,SG-69467023,764575-92-485604,billing@cloudnine.software.pte.l.vendor-mail.com,+65 9949 4170,"46, Jalan Setia, Kuala Lumpur",N30,Software / Subscription,N
+V2029,Vanguard Office Supplies Sdn Bhd,MY,MY-8884394611,870319-79-938722,billing@vanguard.office.supplies.vendor-mail.com,+60 14-546 8956,,Net 45,Logistics,Y
+V2084,BlueWave Marketing Agency,MY,MY-8858766173,245534-70-570392,billing@bluewave.marketing.agenc.example.com,,,N30,Marketing,Y
+V2399, NorthStar Logistics ,MY,MY-6383227541,,,+60 11-858 8583,,N30,Maint/Repair,Y
+V2196,PENINSULA PRINTING & STATIONERY,MY,MY-8477189726,686187-33-812730,billing@peninsula.printing.stati.example.com,+60 13-862 6031,"85, Jalan Melur, Petaling Jaya",NET-45,Office Supplies,N
+V2471, Zenith Catering ,MY,MY-6511412632,604201-19-449421,,+60 12-294 1068,,,Logistics,N
+V2360,BlueWave Marketing Agency,MY,,,billing@bluewave.marketing.agenc.example.com,,"194, Jalan Damai, Kuala Lumpur",30 Days,Marketing / Advertising,Y
+V2389,Crescent Media House,MY,,154644-52-346249,billing@crescent.media.house.bizmail.co,+60 19-826 1745,,,Marketing,Y
+V2289,AquaPure Water Filters,MY,MY-6110368314,419348-46-583757,,+60 10-806 9470,"119, Jalan Setia, Johor Bahru",Net30,Maintenance / Repairs,Y
+V2194,CloudNine Software PTE. LTD.,SG,SG-97438349,,,+65 9685 1930,"154, Jalan Damai, Cyberjaya",Net 45,Software / Subscription,Y
+V2215,GreenLeaf Professional Services,MY,MY-3887823121,781664-32-628370,billing@greenleaf.professional.s.bizmail.co,+60 15-675 8870,"171, Jalan Setia, Johor Bahru",,Prof Services,Y
+V2310,Skyline Telecom Services,MY,MY-7777163837,,billing@skyline.telecom.services.bizmail.co,+60 14-545 6640,"150, Jalan Meranti, George Town",,Utilities,Y
+V2206,TealTech Solutions Sdn Bhd,MY,MY-6027311960,558976-89-381342,billing@tealtech.solutions.sdn.b.example.com,+60 15-287 2865,"117, Jalan Melur, Johor Bahru",COD,Maint/Repair,Y
+V2184,Omega Energy Solutions,MY,MY-8906163641,538967-78-820442,billing@omega.energy.solutions.finance-vendors.net,+60 13-587 5896,,NET 30,Utilities,Y
+V2251,omega energy solutions,MY,MY-3946398734,855829-44-943146,billing@omega.energy.solutions.finance-vendors.net,+60 13-249 3450,"3, Jalan Kenanga, Johor Bahru",COD,Software,N
+V2404,AlphaOmega Consulting,MY,,552762-63-989838,billing@alphaomega.consulting.bizmail.co,,"132, Jalan Kenari, Cyberjaya",COD,Professional Services,Y
+V2219,TealTech  Solutions  Sdn  Bhd,MY,MY-2134900434,,billing@tealtech.solutions.sdn.b.example.com,+60 12-140 3518,"153, Jalan Meranti, Cyberjaya",NET-45,Utility,Y
+V2175,RapidFix IT Services,MY,MY-2327372855,194641-17-343923,billing@rapidfix.it.services.example.com,+60 10-439 4300,"88, Jalan Setia, Shah Alam",Net 45,Professional Services,Y
+V2051,AquaPure Water Filters,MY,MY-8924383984,,billing@aquapure.water.filters.example.com,+60 16-991 3529,,NET-45,Prof Services,Y
+V2475,NorthStar Logistics,MY,MY-8720349513,382089-36-884639,billing@northstar.logistics.bizmail.co,,,COD,Logistics / Delivery,Y
+V2302,Vanguard Office Supplies Sdn. Bhd,MY,MY-5668955416,148381-23-645865,billing@vanguard.office.supplies.bizmail.co,,"164, Jalan Kenanga, Petaling Jaya",30 Days,Software,Y
+V2481,SilverLine Security Services,MY,MY-5644445498,599250-94-998734,billing@silverline.security.serv.example.com,+60 14-721 4196,"134, Jalan Kenari, Cyberjaya",,Professional Services,N
+V2367,AquaPure Water Filters,MY,,228125-42-613111,billing@aquapure.water.filters.vendor-mail.com,,"18, Jalan Damai, Cyberjaya",NET 30,Software,Y
+V2197,TealTech Solutions Sdn Bhd,MY,MY-5600836559,624788-25-813763,billing@tealtech.solutions.sdn.b.bizmail.co,+60 12-240 4281,"146, Jalan Damai, Shah Alam",Net 45,Software / Subscription,Y
+V2270,BrightSpark Electrical Services,MY,,,billing@brightspark.electrical.s.example.com,+60 18-494 4104,,30 Days,Maintenance / Repairs,N
+V2039,Vanguard Office Supplies Sdn Bhd,MY,MY-2178158203,680238-47-831295,billing@vanguard.office.supplies.finance-vendors.net,,,NET-45,Utility,N
+V2091,RapidFix IT Services,MY,MY-5071218314,,billing@rapidfix.it.services.bizmail.co,+60 12-131 3339,"174, Jalan Damai, Kuala Lumpur",N30,Professional Services,Y
+V2177,alphaomega consulting,MY,MY-2532554057,954017-32-496764,billing@alphaomega.consulting.bizmail.co,,"180, Jalan Kenari, Johor Bahru",NET 30,Software,Y
+V2069,AlphaOmega Consulting,MY,,693830-94-520252,,+60 10-193 9691,,Immediate,Utility,Y
+V2364,aquapure water filters,MY,MY-4101552989,,billing@aquapure.water.filters.finance-vendors.net,+60 19-853 6111,"114, Jalan Kenanga, George Town",Immediate,Prof Services,Y
+V2063,vanguard office supplies sdn bhd,MY,,349489-85-439498,,+60 12-859 7897,"191, Jalan Meranti, Johor Bahru",COD,Maint/Repair,Y
+V2466,Metro Maintenance Co.,MY,MY-4851638315,873758-64-894029,billing@metro.maintenance.co.example.com,,"76, Jalan Kenanga, Shah Alam",Immediate,Maintenance / Repairs,Y
+V2436,AquaPure Water Filters,MY,MY-7955985378,755725-67-707056,,+60 10-486 6132,"178, Jalan Meranti, Shah Alam",NET 30,Maint/Repair,Y
+V2148,HARBOR FREIGHT & COURIERS,MY,MY-6358107532,133796-67-375581,billing@harbor.freight.couriers.example.com,+60 11-894 4882,,Net 45,Maint/Repair,Y
+V2031,SilverLine Security Services,MY,MY-9072992279,,billing@silverline.security.serv.finance-vendors.net,+60 11-581 1317,"14, Jalan Melur, Shah Alam",Net30,Professional Services,Y
+V2189,SilverLine Security Services,MY,MY-9831336766,168804-49-844037,billing@silverline.security.serv.vendor-mail.com,+60 18-682 1474,,30 Days,Professional Services,Y
+V2100,metro maintenance co.,MY,,,billing@metro.maintenance.co.finance-vendors.net,+60 12-933 6364,"185, Jalan Melur, Shah Alam",N30,Utility,N
+V2472,Zenith  Catering,MY,MY-6897612430,772188-85-174694,billing@zenith.catering.example.com,+60 11-494 3660,,Immediate,Prof Services,N
+V2286,Metro Maintenance Co.,MY,,,billing@metro.maintenance.co.vendor-mail.com,+60 19-580 7126,,Immediate,Utility,Y
+V2049,GreenLeaf Professional Services,MY,MY-4776677517,389666-63-456385,billing@greenleaf.professional.s.bizmail.co,+60 14-843 5891,"149, Jalan Setia, Johor Bahru",N30,Utility,Y
+V2271,NorthStar Logistics,MY,MY-8191890793,547820-23-274912,billing@northstar.logistics.finance-vendors.net,+60 12-646 8258,"81, Jalan Kenari, Petaling Jaya",Net 45,Utility,Y
+V2053,TealTech Solutions Sdn Bhd,MY,MY-6554972315,252640-41-656968,billing@tealtech.solutions.sdn.b.vendor-mail.com,+60 11-724 7267,"62, Jalan Damai, George Town",N30,Software,Y
+V2430,NorthStar Logistics,MY,MY-7877577855,979908-99-108840,,+60 13-555 1153,,NET 30,Maint/Repair,Y
+V2304,cloudnine software pte ltd,SG,SG-48019546,279594-19-426503,billing@cloudnine.software.pte.l.bizmail.co,+65 6207 3131,,NET 30,Office supply,Y
+V2424,Peninsula  Printing  &  Stationery,MY,,,billing@peninsula.printing.stati.bizmail.co,+60 11-153 4318,,30 Days,Utility,Y
+V2157,Peninsula Printing & Stationery,MY,MY-3188382776,409898-92-157219,billing@peninsula.printing.stati.vendor-mail.com,+60 11-346 9185,"19, Jalan Kenari, Kuala Lumpur",Net 45,Office Supplies,N
+V2369,SilverLine Security Services,MY,MY-7195731459,,,+60 14-823 3689,"35, Jalan Melur, Cyberjaya",Immediate,Professional Services,N
+V2447,Omega Energy Solutions,MY,,,billing@omega.energy.solutions.vendor-mail.com,+60 14-535 7178,"96, Jalan Melur, George Town",Net30,Utilities,Y
+V2076,SILVERLINE SECURITY SERVICES,MY,MY-8006745733,720148-17-469038,billing@silverline.security.serv.bizmail.co,+60 10-158 7041,"20, Jalan Setia, Kuala Lumpur",,Utility,Y
+V2450,Peninsula Printing & Stationery,MY,MY-2178816289,244562-79-373820,,+60 15-901 7616,"149, Jalan Setia, Kuala Lumpur",COD,Office Supplies,N
+V2397,EverClean Facility Management,MY,MY-2817074316,950389-57-743687,,+60 11-141 9410,"119, Jalan Setia, Shah Alam",N30,Maintenance / Repairs,Y
+V2174,SUNRISE UTILITIES BERHAD,MY,,,billing@sunrise.utilities.berhad.example.com,+60 13-689 7363,"45, Jalan Kenanga, Shah Alam",Net 45,Maint/Repair,Y
+V2165,Vanguard  Office  Supplies  Sdn  Bhd,MY,,766833-98-110060,billing@vanguard.office.supplies.example.com,+60 16-969 6038,,,Software,N
+V2255,BrightSpark Electrical Services,MY,,,,+60 18-155 1431,"135, Jalan Meranti, Kuala Lumpur",NET-45,Maintenance / Repairs,Y
+V2375,AquaPure Water Filters,MY,MY-7614024489,,billing@aquapure.water.filters.finance-vendors.net,+60 18-284 1304,"133, Jalan Kenanga, George Town",COD,Software,Y
+V2462,TealTech Solutions Sdn Bhd,MY,,904377-35-361829,billing@tealtech.solutions.sdn.b.vendor-mail.com,+60 10-531 1457,"87, Jalan Kenanga, Cyberjaya",Net30,Software / Subscription,Y
+V2089,RapidFix IT Services,MY,MY-6720572969,,billing@rapidfix.it.services.finance-vendors.net,+60 16-447 4060,"128, Jalan Melur, George Town",NET-45,Professional Services,N
+V2182,BlueWave Marketing Agency,MY,MY-2836553621,,billing@bluewave.marketing.agenc.finance-vendors.net,+60 10-311 3798,"21, Jalan Damai, Kuala Lumpur",NET-45,Maint/Repair,N
+V2449,BrightSpark Electrical Services,MY,MY-3764474604,338804-22-224348,,,,30 Days,Logistics,Y
+V2038,Peninsula Printing & Stationery,MY,,430876-25-878967,billing@peninsula.printing.stati.vendor-mail.com,+60 17-383 9595,"26, Jalan Kenanga, Petaling Jaya",30 Days,Office Supplies,Y
+V2156,SilverLine Security Services,MY,MY-8243746556,190898-22-246814,billing@silverline.security.serv.finance-vendors.net,+60 16-422 3290,,Net30,Software,Y
+V2438,Harbor Freight & Couriers,MY,MY-4362655061,444136-85-301831,,,"152, Jalan Kenanga, George Town",N30,Logistics,Y
+V2140,AlphaOmega  Consulting,MY,,,billing@alphaomega.consulting.vendor-mail.com,+60 16-574 9199,,NET 30,Professional Services,Y
+V2056,BlueWave Marketing Agency,MY,,141337-49-926918,billing@bluewave.marketing.agenc.bizmail.co,+60 11-402 6352,"45, Jalan Kenanga, Shah Alam",,Prof Services,Y
+V2376,Skyline Telecom Services,MY,MY-9189797508,861911-90-162790,billing@skyline.telecom.services.bizmail.co,+60 13-254 5919,"106, Jalan Melur, Kuala Lumpur",30 Days,Maint/Repair,Y
+V2258, EverClean Facility Management ,MY,MY-8584350472,726003-39-935471,,+60 16-674 8161,"42, Jalan Setia, Cyberjaya",Immediate,Maint/Repair,Y
+V2308,BrightSpark Electrical Services,MY,,552091-65-694764,billing@brightspark.electrical.s.vendor-mail.com,+60 11-857 8972,,COD,Maintenance / Repairs,N
+V2201,greenleaf professional services,MY,MY-2732553940,,billing@greenleaf.professional.s.vendor-mail.com,+60 10-703 9267,,Net 45,Professional Services,N
+V2128,Crescent Media House,MY,MY-3095318649,,billing@crescent.media.house.example.com,,"138, Jalan Melur, Kuala Lumpur",,Maint/Repair,Y
+V2224,Zenith Catering,MY,,,billing@zenith.catering.example.com,+60 19-146 2189,"129, Jalan Meranti, Petaling Jaya",NET-45,Other / Unclear,Y
+V2155, BlueWave Marketing Agency ,MY,,866260-23-208214,billing@bluewave.marketing.agenc.bizmail.co,,"193, Jalan Kenanga, Cyberjaya",N30,Marketing / Advertising,Y
+V2190, TealTech Solutions Sdn Bhd ,MY,,308781-45-486244,billing@tealtech.solutions.sdn.b.finance-vendors.net,+60 11-797 1500,,COD,Marketing,Y
+V2279,TealTech Solutions SDN. BHD.,MY,MY-4980273734,959972-46-114400,billing@tealtech.solutions.sdn.b.example.com,+60 17-123 6437,,,Software / Subscription,Y
+V2335,Crescent Media House,MY,MY-3179870948,756895-94-318217,billing@crescent.media.house.vendor-mail.com,,,COD,Marketing / Advertising,Y
+V2083,BrightSpark Electrical Services,MY,MY-9094423237,535050-16-515712,billing@brightspark.electrical.s.vendor-mail.com,+60 11-483 4678,,Net30,Maint/Repair,Y
+V2011,TealTech  Solutions  Sdn  Bhd,MY,MY-1469306919,,billing@tealtech.solutions.sdn.b.vendor-mail.com,+60 14-573 5092,"20, Jalan Damai, George Town",Net30,Software / Subscription,Y
+V2102,harbor freight & couriers,MY,MY-8419590655,483713-15-520040,,+60 15-666 5728,,,Utility,Y
+V2446, BrightSpark Electrical Services ,MY,MY-3640917193,,billing@brightspark.electrical.s.bizmail.co,+60 17-283 6272,"135, Jalan Setia, Johor Bahru",COD,Utility,N
+V2296,Sunrise Utilities Berhad,MY,,,,,"31, Jalan Setia, Shah Alam",Immediate,Utilities,Y
+V2420,AlphaOmega  Consulting,MY,MY-3601503399,629283-91-583326,billing@alphaomega.consulting.finance-vendors.net,,"23, Jalan Kenari, Cyberjaya",Immediate,Professional Services,N
+V2181,Sunrise Utilities Berhad,MY,MY-1674755608,,billing@sunrise.utilities.berhad.vendor-mail.com,+60 18-839 9849,"73, Jalan Melur, Shah Alam",Net30,Office supply,N
+V2282,TealTech Solutions SDN. BHD.,MY,MY-6604621025,880550-30-119264,billing@tealtech.solutions.sdn.b.bizmail.co,+60 14-341 9212,"16, Jalan Setia, Petaling Jaya",Immediate,Software / Subscription,Y
+V2032,Metro Maintenance Co.,MY,MY-3668616333,,billing@metro.maintenance.co.example.com,+60 13-576 5198,"43, Jalan Kenari, George Town",Net30,Maintenance / Repairs,Y
+V2414,Vanguard Office Supplies Sdn Bhd,MY,MY-2111065867,418706-64-629818,,,"161, Jalan Kenari, Petaling Jaya",Net30,Office Supplies,N
+V2381,cloudnine software pte ltd,SG,SG-59357131,122097-92-735242,,+65 9272 1895,"172, Jalan Kenanga, Petaling Jaya",,Utility,Y
+V2442,EverClean Facility Management,MY,MY-8793873887,494172-36-519758,,+60 15-110 2208,"143, Jalan Meranti, Shah Alam",NET-45,Maintenance / Repairs,Y
+V2300,AlphaOmega Consulting,MY,,621199-40-489633,billing@alphaomega.consulting.bizmail.co,+60 14-279 2838,"10, Jalan Kenanga, Kuala Lumpur",COD,Professional Services,N
+V2278,GreenLeaf Professional Services,MY,MY-3814963909,277477-54-746154,billing@greenleaf.professional.s.finance-vendors.net,+60 17-145 4825,,Net 45,Professional Services,Y
+V2297,RapidFix IT Services,MY,MY-1911984483,823535-46-366776,billing@rapidfix.it.services.bizmail.co,+60 18-431 1100,,Net 45,Prof Services,Y
+V2396,Peninsula Printing & Stationery,MY,MY-3809184791,,billing@peninsula.printing.stati.finance-vendors.net,+60 14-801 3151,"25, Jalan Melur, George Town",30 Days,Utility,N
+V2478,EverClean Facility Management,MY,MY-1040830454,,billing@everclean.facility.manag.example.com,,"2, Jalan Damai, George Town",,Maint/Repair,N
+V2232,Sunrise Utilities Berhad,MY,MY-5156392601,606990-55-142383,billing@sunrise.utilities.berhad.finance-vendors.net,+60 14-478 4834,,30 Days,Marketing,N
+V2034,RapidFix IT Services,MY,MY-2591589823,457806-11-990844,billing@rapidfix.it.services.finance-vendors.net,,"163, Jalan Damai, Cyberjaya",N30,Professional Services,Y
+V2209,BlueWave Marketing Agency,MY,MY-3632445649,,billing@bluewave.marketing.agenc.finance-vendors.net,+60 12-176 9055,"85, Jalan Melur, Kuala Lumpur",,Software,N
+V2268,AlphaOmega  Consulting,MY,MY-1474439845,169918-15-975763,billing@alphaomega.consulting.vendor-mail.com,+60 13-209 8952,,NET 30,Marketing,N
+V2393,NorthStar Logistics,MY,,289430-31-886365,billing@northstar.logistics.bizmail.co,+60 19-317 1067,"147, Jalan Kenanga, Johor Bahru",Net30,Software,Y
+V2330,BrightSpark Electrical Services,MY,MY-5376842282,748410-15-354471,billing@brightspark.electrical.s.vendor-mail.com,,"79, Jalan Meranti, Johor Bahru",N30,Maintenance / Repairs,Y
+V2199, Harbor Freight & Couriers ,MY,MY-9751963589,,billing@harbor.freight.couriers.example.com,+60 18-295 1293,"161, Jalan Setia, Shah Alam",30 Days,Logistics,Y
+V2222,EverClean Facility Management,MY,MY-3798292304,186345-22-275526,billing@everclean.facility.manag.example.com,+60 13-786 4492,"109, Jalan Meranti, Shah Alam",,Maint/Repair,Y
+V2079,RapidFix IT Services,MY,MY-2683446724,188834-49-686072,billing@rapidfix.it.services.bizmail.co,+60 18-195 7937,"5, Jalan Melur, Petaling Jaya",N30,Software,N
+V2061,Zenith Catering,MY,,,billing@zenith.catering.finance-vendors.net,,,NET 30,Office supply,Y
+V2361,EVERCLEAN FACILITY MANAGEMENT,MY,MY-1185892639,110771-22-920375,,+60 19-304 4027,"8, Jalan Meranti, Shah Alam",NET-45,Marketing,Y
+V2411,BlueWave  Marketing  Agency,MY,MY-5422798091,,,+60 11-186 6542,"198, Jalan Kenanga, Johor Bahru",NET 30,Marketing / Advertising,Y
+V2176,Omega Energy Solutions,MY,MY-4325878813,482614-19-491738,billing@omega.energy.solutions.finance-vendors.net,+60 15-409 6285,,N30,Logistics,N
+V2372,OMEGA ENERGY SOLUTIONS,MY,MY-2309589038,120669-78-441958,,+60 16-681 9433,"69, Jalan Meranti, Cyberjaya",COD,Utilities,Y
+V2153, SilverLine Security Services ,MY,,312146-98-238320,billing@silverline.security.serv.bizmail.co,+60 14-195 6905,"96, Jalan Setia, Cyberjaya",N30,Office supply,Y
+V2228,Peninsula Printing & Stationery,MY,,,billing@peninsula.printing.stati.bizmail.co,+60 14-810 3496,"94, Jalan Melur, Johor Bahru",N30,Office supply,Y
+V2027, EverClean Facility Management ,MY,MY-8033702319,646622-72-757193,billing@everclean.facility.manag.finance-vendors.net,,"70, Jalan Melur, Petaling Jaya",,Maintenance / Repairs,Y
+V2131,CloudNine Software Pte Ltd,SG,SG-14416002,,billing@cloudnine.software.pte.l.example.com,+65 8404 3362,"183, Jalan Damai, Kuala Lumpur",NET-45,Software / Subscription,N
+V2491,CloudNine Software PTE. LTD.,SG,SG-59301266,,,,"131, Jalan Kenanga, Kuala Lumpur",COD,Software / Subscription,Y
+V2307,Sunrise Utilities Berhad,MY,MY-5737057771,935461-23-441699,billing@sunrise.utilities.berhad.example.com,+60 18-572 7566,"62, Jalan Kenari, Shah Alam",,Software,N
+V2021,AquaPure  Water  Filters,MY,MY-1118543408,373903-32-708792,billing@aquapure.water.filters.bizmail.co,,"89, Jalan Setia, Petaling Jaya",Immediate,Maintenance / Repairs,N
+V2488,BrightSpark Electrical Services,MY,MY-4964528773,674630-60-202046,,+60 19-986 1886,"182, Jalan Melur, Johor Bahru",N30,Maintenance / Repairs,N
+V2265, BlueWave Marketing Agency ,MY,,926867-92-893454,billing@bluewave.marketing.agenc.finance-vendors.net,+60 10-805 7189,"35, Jalan Melur, Kuala Lumpur",COD,Logistics,Y
+V2214,Zenith Catering,MY,MY-9086117171,503348-63-738576,billing@zenith.catering.vendor-mail.com,+60 15-401 8419,"36, Jalan Damai, George Town",,Prof Services,Y
+V2470,RapidFix  IT  Services,MY,MY-7316666310,738996-65-897257,,+60 17-120 7249,"22, Jalan Melur, George Town",,Professional Services,Y
+V2402,bluewave marketing agency,MY,,,,+60 10-314 8882,"167, Jalan Kenanga, Johor Bahru",,Marketing / Advertising,Y
+V2493,AquaPure Water Filters,MY,MY-3799033030,317541-94-223025,,+60 12-105 8327,"32, Jalan Meranti, Shah Alam",30 Days,Maintenance / Repairs,Y
+V2477,Sunrise Utilities Berhad,MY,MY-7050717297,754753-23-767349,,+60 16-227 5534,,NET 30,Utilities,N
+V2204,RapidFix IT Services,MY,MY-1688799369,317782-98-604012,billing@rapidfix.it.services.example.com,,,Net30,Maint/Repair,Y
+V2315,BlueWave Marketing Agency,MY,MY-8640187694,182034-76-739705,,+60 11-800 9834,"80, Jalan Kenari, Kuala Lumpur",Net 45,Marketing / Advertising,N
+V2139,BlueWave Marketing Agency,MY,MY-2619163247,726979-71-710527,billing@bluewave.marketing.agenc.finance-vendors.net,+60 15-818 9796,"22, Jalan Meranti, Shah Alam",Net 45,Marketing / Advertising,N
+V2003,Sunrise Utilities Berhad,MY,MY-8173347748,816751-92-174870,billing@sunrise.utilities.berhad.vendor-mail.com,+60 13-267 8573,"164, Jalan Setia, George Town",30 Days,Logistics,Y
+V2185,silverline security services,MY,MY-1827752234,,,+60 13-942 3422,"67, Jalan Melur, Cyberjaya",Net30,Office supply,N
+V2004,Metro Maintenance Co.,MY,MY-7017956955,,billing@metro.maintenance.co.bizmail.co,+60 17-505 8517,,N30,Software,N
+V2408,Crescent Media House,MY,,,billing@crescent.media.house.bizmail.co,+60 10-888 5382,"177, Jalan Kenari, George Town",Net30,Marketing / Advertising,N
+V2072,EverClean Facility Management,MY,MY-5849815676,341288-74-685864,billing@everclean.facility.manag.bizmail.co,,"11, Jalan Damai, Kuala Lumpur",COD,Office supply,N
+V2499,Sunrise Utilities Berhad,MY,MY-3102895903,834480-83-395694,billing@sunrise.utilities.berhad.example.com,+60 12-425 7382,,,Marketing,N
+V2356,EVERCLEAN FACILITY MANAGEMENT,MY,MY-8240940498,958029-25-491330,billing@everclean.facility.manag.example.com,+60 12-695 1958,,COD,Maintenance / Repairs,Y
+V2101, Peninsula Printing & Stationery ,MY,,629996-68-352422,billing@peninsula.printing.stati.bizmail.co,,"153, Jalan Setia, Cyberjaya",COD,Office Supplies,Y
+V2113,Sunrise Utilities Berhad,MY,MY-8691288568,894068-34-284019,billing@sunrise.utilities.berhad.finance-vendors.net,+60 18-435 2421,"25, Jalan Kenanga, Shah Alam",COD,Utilities,Y
+V2229,Metro Maintenance Co.,MY,MY-7168105904,240829-96-868577,billing@metro.maintenance.co.finance-vendors.net,+60 15-893 6004,"28, Jalan Kenanga, Cyberjaya",Net30,Maint/Repair,Y
+V2498,SKYLINE TELECOM SERVICES,MY,MY-2747112232,193296-56-449718,billing@skyline.telecom.services.vendor-mail.com,+60 13-380 1161,,30 Days,Utilities,Y
+V2440,EverClean Facility Management,MY,MY-6545077429,642827-85-789624,billing@everclean.facility.manag.example.com,+60 18-979 1894,"51, Jalan Kenanga, Cyberjaya",30 Days,Maintenance / Repairs,Y
+V2179,Vanguard Office Supplies Sdn Bhd,MY,MY-8441393731,534130-73-497108,billing@vanguard.office.supplies.finance-vendors.net,,"148, Jalan Setia, Cyberjaya",30 Days,Software,Y
+V2252,Peninsula Printing & Stationery,MY,MY-3438830691,824087-30-162952,billing@peninsula.printing.stati.bizmail.co,+60 11-560 6483,"93, Jalan Kenari, George Town",NET-45,Office Supplies,N
+V2073,Omega  Energy  Solutions,MY,MY-7088949191,,,+60 19-571 6928,,Net30,Software,N
+V2497,CloudNine Software PTE. LTD.,SG,SG-35854014,691021-94-779237,billing@cloudnine.software.pte.l.vendor-mail.com,+65 6628 6183,"112, Jalan Damai, Kuala Lumpur",30 Days,Office supply,Y
+V2290,Omega Energy Solutions,MY,MY-6983175999,126122-32-575718,billing@omega.energy.solutions.vendor-mail.com,+60 11-356 6309,"183, Jalan Kenanga, Cyberjaya",Net30,Utilities,N
+V2373,Zenith Catering,MY,MY-3459034771,204917-98-807905,billing@zenith.catering.finance-vendors.net,+60 15-270 5907,"112, Jalan Kenanga, Johor Bahru",Net30,Other / Unclear,Y
+V2390,Zenith Catering,MY,MY-3403293589,372935-31-628216,billing@zenith.catering.bizmail.co,+60 12-191 6198,"111, Jalan Kenanga, Petaling Jaya",Net30,Other / Unclear,Y
+V2333,EVERCLEAN FACILITY MANAGEMENT,MY,,,,+60 14-526 8798,"53, Jalan Kenanga, Cyberjaya",NET-45,Marketing,N
+V2132,Skyline Telecom Services,MY,MY-4177181331,822794-20-625119,billing@skyline.telecom.services.bizmail.co,,"20, Jalan Melur, George Town",Immediate,Maint/Repair,Y
+V2127,BlueWave Marketing Agency,MY,MY-5111301175,979827-19-957730,billing@bluewave.marketing.agenc.example.com,+60 13-169 3474,,,Utility,Y
+V2143,GreenLeaf Professional Services,MY,MY-9858643842,,billing@greenleaf.professional.s.vendor-mail.com,+60 13-568 2867,"126, Jalan Kenari, Cyberjaya",Net 45,Marketing,N
+V2387,EVERCLEAN FACILITY MANAGEMENT,MY,,,billing@everclean.facility.manag.bizmail.co,+60 17-491 3133,"53, Jalan Kenari, Shah Alam",NET-45,Maintenance / Repairs,N
+V2178,OMEGA ENERGY SOLUTIONS,MY,MY-5899025962,349556-54-435039,,+60 11-941 6500,"68, Jalan Kenanga, Shah Alam",Net30,Prof Services,Y
+V2216,AQUAPURE WATER FILTERS,MY,,,billing@aquapure.water.filters.vendor-mail.com,+60 12-393 5105,,NET 30,Logistics,Y
+V2347,Vanguard Office Supplies SDN. BHD.,MY,MY-6737549611,787614-92-925045,billing@vanguard.office.supplies.finance-vendors.net,+60 19-235 6021,,NET-45,Software,Y
+V2010,AquaPure Water Filters,MY,MY-3084839399,858490-83-704201,billing@aquapure.water.filters.finance-vendors.net,+60 13-196 2588,"91, Jalan Damai, Johor Bahru",COD,Maintenance / Repairs,Y
+V2277,BrightSpark  Electrical  Services,MY,MY-5874232824,611559-60-783932,billing@brightspark.electrical.s.vendor-mail.com,+60 14-895 8046,"148, Jalan Meranti, Kuala Lumpur",Immediate,Utility,Y
+V2479,EverClean Facility Management,MY,MY-6740439400,459742-50-956526,billing@everclean.facility.manag.bizmail.co,+60 16-725 1937,"85, Jalan Meranti, Kuala Lumpur",COD,Maint/Repair,Y
+V2022,Omega Energy Solutions,MY,MY-8339176912,,billing@omega.energy.solutions.vendor-mail.com,+60 11-780 6409,"170, Jalan Meranti, Cyberjaya",NET-45,Marketing,N
+V2343,Crescent Media House,MY,MY-3940614579,452001-17-639740,billing@crescent.media.house.bizmail.co,+60 11-492 6989,"11, Jalan Melur, Petaling Jaya",N30,Marketing / Advertising,Y
+V2341,EverClean Facility Management,MY,MY-7238188172,,billing@everclean.facility.manag.example.com,+60 16-323 3174,"62, Jalan Setia, Kuala Lumpur",NET 30,Utility,Y
+V2410,BLUEWAVE MARKETING AGENCY,MY,MY-4302972301,,billing@bluewave.marketing.agenc.bizmail.co,+60 12-187 5358,"194, Jalan Damai, Petaling Jaya",30 Days,Software,Y
+V2417, Omega Energy Solutions ,MY,MY-9574952781,613321-63-963829,,+60 17-828 8499,,,Utilities,Y
+V2366,BrightSpark Electrical Services,MY,MY-2454411858,523927-25-344181,billing@brightspark.electrical.s.finance-vendors.net,+60 19-707 5472,"165, Jalan Damai, Petaling Jaya",COD,Logistics,N
+V2359, Harbor Freight & Couriers ,MY,MY-5369611254,824619-56-245766,billing@harbor.freight.couriers.bizmail.co,+60 14-129 2943,,N30,Logistics / Delivery,Y
+V2453,bluewave marketing agency,MY,MY-9565270204,937965-87-737363,billing@bluewave.marketing.agenc.finance-vendors.net,+60 13-500 2043,"49, Jalan Damai, Kuala Lumpur",Net 45,Marketing,Y
+V2391,EverClean Facility Management,MY,MY-9273125114,,billing@everclean.facility.manag.bizmail.co,+60 16-268 6169,"126, Jalan Kenanga, George Town",COD,Maintenance / Repairs,Y
+V2180,TealTech Solutions Sdn. Bhd,MY,,,,+60 16-264 2228,"24, Jalan Melur, George Town",COD,Software / Subscription,N
+V2377,Peninsula Printing & Stationery,MY,,347600-61-350067,,+60 13-916 6087,"144, Jalan Damai, Johor Bahru",NET 30,Office Supplies,Y
+V2253,NorthStar Logistics,MY,MY-8646369354,805893-75-611174,billing@northstar.logistics.finance-vendors.net,+60 16-728 5694,"38, Jalan Kenanga, Cyberjaya",Net 45,Utility,Y
+V2013,GreenLeaf Professional Services,MY,MY-3328710672,159942-16-712554,billing@greenleaf.professional.s.vendor-mail.com,,"48, Jalan Meranti, George Town",Net30,Professional Services,N
+V2275,Harbor  Freight  &  Couriers,MY,MY-4308800114,990742-87-111989,billing@harbor.freight.couriers.finance-vendors.net,,"82, Jalan Kenari, George Town",N30,Logistics / Delivery,Y
+V2409,SILVERLINE SECURITY SERVICES,MY,MY-3415802569,275160-90-223794,billing@silverline.security.serv.bizmail.co,+60 14-825 8233,"128, Jalan Setia, Kuala Lumpur",N30,Logistics,Y
+V2422,EverClean Facility Management,MY,MY-5376458227,357201-84-565808,,+60 15-511 1737,"6, Jalan Melur, Johor Bahru",N30,Maintenance / Repairs,Y
+V2437,Peninsula Printing & Stationery,MY,MY-1282567012,686424-16-409242,billing@peninsula.printing.stati.finance-vendors.net,,"60, Jalan Kenari, Cyberjaya",NET 30,Utility,N
+V2044, NorthStar Logistics ,MY,MY-8300300577,624783-79-617781,billing@northstar.logistics.example.com,+60 15-718 5102,,30 Days,Logistics / Delivery,Y
+V2247,PENINSULA PRINTING & STATIONERY,MY,MY-2468848245,287155-70-429119,billing@peninsula.printing.stati.bizmail.co,+60 13-610 4271,,30 Days,Maint/Repair,Y
+V2261,GreenLeaf Professional Services,MY,MY-6890105611,133278-52-184120,billing@greenleaf.professional.s.vendor-mail.com,,"19, Jalan Kenari, Johor Bahru",N30,Software,N
+V2448,SilverLine Security Services,MY,MY-3508098662,751297-53-546800,billing@silverline.security.serv.finance-vendors.net,+60 17-424 5473,"46, Jalan Damai, Shah Alam",NET-45,Professional Services,Y
+V2057, CloudNine Software Pte Ltd ,SG,SG-49613214,455168-24-591081,billing@cloudnine.software.pte.l.vendor-mail.com,+65 6924 7511,"143, Jalan Melur, Kuala Lumpur",Immediate,Office supply,Y
+V2142,Vanguard Office Supplies Sdn Bhd,MY,MY-5982744929,584498-39-936507,billing@vanguard.office.supplies.vendor-mail.com,+60 16-505 1478,"51, Jalan Damai, George Town",Immediate,Office Supplies,Y
+V2240,Zenith Catering,MY,,528705-56-211760,,+60 14-367 9783,"94, Jalan Kenari, Petaling Jaya",Immediate,Other / Unclear,N
+V2080,GreenLeaf Professional Services,MY,MY-1665484476,,billing@greenleaf.professional.s.example.com,+60 19-234 7172,,N30,Professional Services,N
+V2299,Skyline Telecom Services,MY,,447832-55-169429,billing@skyline.telecom.services.bizmail.co,+60 15-484 9753,"147, Jalan Kenari, Johor Bahru",N30,Utilities,Y
+V2238,EverClean Facility Management,MY,MY-4231461054,,billing@everclean.facility.manag.example.com,+60 16-634 7892,"12, Jalan Setia, George Town",Immediate,Software,N
+V2415,Peninsula Printing & Stationery,MY,MY-7241219521,944510-84-693071,billing@peninsula.printing.stati.vendor-mail.com,+60 14-782 3293,"134, Jalan Setia, Shah Alam",Net30,Office Supplies,Y
+V2326,Zenith Catering,MY,,510339-83-103883,billing@zenith.catering.finance-vendors.net,+60 16-964 2148,"1, Jalan Damai, Cyberjaya",COD,Office supply,Y
+V2401,Skyline Telecom Services,MY,,,,+60 16-989 8974,"158, Jalan Melur, Cyberjaya",Immediate,Maint/Repair,Y
+V2464,AlphaOmega Consulting,MY,MY-2970427638,,billing@alphaomega.consulting.bizmail.co,,"106, Jalan Melur, George Town",COD,Professional Services,Y
+V2429, GreenLeaf Professional Services ,MY,MY-2410713142,240221-92-102146,billing@greenleaf.professional.s.example.com,+60 12-523 9011,"138, Jalan Meranti, Cyberjaya",Net30,Professional Services,N
+V2047,AquaPure Water Filters,MY,MY-1221670908,,,+60 17-224 1472,"156, Jalan Kenanga, Cyberjaya",N30,Maintenance / Repairs,N
+V2094,BrightSpark Electrical Services,MY,MY-9532273208,844007-18-676713,billing@brightspark.electrical.s.bizmail.co,+60 12-912 6922,"32, Jalan Kenanga, Shah Alam",30 Days,Maint/Repair,Y
+V2250,OMEGA ENERGY SOLUTIONS,MY,MY-2115406331,348658-44-594241,billing@omega.energy.solutions.bizmail.co,+60 17-534 4449,"193, Jalan Melur, Petaling Jaya",Immediate,Prof Services,Y
+V2317,Peninsula Printing & Stationery,MY,MY-6526831162,,billing@peninsula.printing.stati.bizmail.co,+60 19-387 5509,"4, Jalan Setia, Kuala Lumpur",N30,Office Supplies,N
+V2320,AquaPure  Water  Filters,MY,,570622-58-811451,billing@aquapure.water.filters.example.com,,"91, Jalan Damai, George Town",NET-45,Prof Services,Y
+V2028,Metro  Maintenance  Co.,MY,MY-4034047118,,billing@metro.maintenance.co.finance-vendors.net,+60 13-952 7883,"198, Jalan Kenari, Cyberjaya",NET 30,Maint/Repair,N
+V2046,Harbor Freight & Couriers,MY,MY-5452580287,,billing@harbor.freight.couriers.example.com,+60 16-985 9431,"1, Jalan Setia, George Town",COD,Logistics / Delivery,Y
+V2115,Zenith Catering,MY,MY-6562144159,329772-27-601410,,+60 19-482 7813,"121, Jalan Kenari, Cyberjaya",30 Days,Other / Unclear,Y
+V2006,Skyline Telecom Services,MY,MY-2461042543,,,,"185, Jalan Melur, George Town",N30,Utilities,Y
+V2124,GreenLeaf Professional Services,MY,MY-3400244542,449138-48-116078,billing@greenleaf.professional.s.vendor-mail.com,+60 11-864 8846,"179, Jalan Kenari, Cyberjaya",30 Days,Professional Services,Y
+V2058,SilverLine Security Services,MY,MY-8182649048,962367-91-489518,,+60 10-734 6374,"57, Jalan Setia, Kuala Lumpur",COD,Logistics,N
+V2050,AlphaOmega Consulting,MY,MY-6915072151,297816-99-350405,billing@alphaomega.consulting.vendor-mail.com,+60 16-144 6213,"181, Jalan Damai, Johor Bahru",N30,Professional Services,Y
+V2198,EverClean Facility Management,MY,MY-6054421752,104942-67-386814,billing@everclean.facility.manag.vendor-mail.com,+60 12-601 2442,,Immediate,Logistics,N
+V2486,Crescent Media House,MY,,940215-99-136012,billing@crescent.media.house.bizmail.co,+60 11-380 8836,"56, Jalan Damai, Petaling Jaya",Immediate,Office supply,Y
+V2465,NorthStar Logistics,MY,MY-5865903461,,billing@northstar.logistics.bizmail.co,+60 17-169 6490,,COD,Logistics / Delivery,Y
+V2487,GreenLeaf Professional Services,MY,MY-4159917292,913735-32-998397,billing@greenleaf.professional.s.finance-vendors.net,+60 12-122 9977,"109, Jalan Setia, Johor Bahru",Net 45,Maint/Repair,N
+V2134,BlueWave Marketing Agency,MY,MY-2549195708,,billing@bluewave.marketing.agenc.finance-vendors.net,+60 14-204 3170,,Immediate,Utility,Y
+V2158,Omega  Energy  Solutions,MY,MY-3933213766,907788-19-117500,billing@omega.energy.solutions.example.com,+60 10-161 7520,"161, Jalan Setia, George Town",Immediate,Utility,Y
+V2266,Skyline Telecom Services,MY,MY-3433965438,439403-69-388698,billing@skyline.telecom.services.vendor-mail.com,,,NET-45,Maint/Repair,Y
+V2098,BrightSpark Electrical Services,MY,MY-7752277876,131757-73-757629,billing@brightspark.electrical.s.bizmail.co,+60 16-404 8430,,NET 30,Software,N
+V2133, CloudNine Software Pte Ltd ,SG,SG-57756170,493663-65-294760,billing@cloudnine.software.pte.l.finance-vendors.net,,"64, Jalan Setia, Kuala Lumpur",Net30,Software / Subscription,N
+V2227,Omega Energy Solutions,MY,MY-3360791536,,,,"125, Jalan Melur, Petaling Jaya",N30,Utilities,Y
+V2435,BrightSpark Electrical Services,MY,MY-5414679868,125190-85-935946,billing@brightspark.electrical.s.bizmail.co,+60 13-210 8759,,Net 45,Maintenance / Repairs,Y
+V2230,Skyline Telecom Services,MY,MY-9918338001,,,+60 10-932 7637,"55, Jalan Meranti, George Town",NET-45,Marketing,Y
+V2337,Metro Maintenance Co.,MY,MY-7785025154,883377-96-441505,billing@metro.maintenance.co.example.com,+60 11-342 7759,"97, Jalan Kenanga, Kuala Lumpur",COD,Marketing,Y
+V2231,RapidFix  IT  Services,MY,,868844-47-240384,billing@rapidfix.it.services.example.com,+60 18-110 4913,"158, Jalan Setia, Shah Alam",,Software,Y
+V2463,Sunrise Utilities Berhad,MY,MY-6700029200,298754-89-317180,billing@sunrise.utilities.berhad.finance-vendors.net,+60 11-337 4502,,Net 45,Utilities,N
+V2112,Omega Energy Solutions,MY,,398384-68-772464,billing@omega.energy.solutions.finance-vendors.net,+60 12-971 9261,"50, Jalan Meranti, Petaling Jaya",N30,Logistics,Y
+V2068,Skyline Telecom Services,MY,,,billing@skyline.telecom.services.finance-vendors.net,+60 19-728 1430,"169, Jalan Setia, Petaling Jaya",NET 30,Software,Y
+V2485,Zenith  Catering,MY,MY-4421221951,730841-85-332932,,,"81, Jalan Kenanga, Petaling Jaya",30 Days,Utility,Y
+V2374,CloudNine Software Pte Ltd,SG,SG-86976644,336858-89-878974,billing@cloudnine.software.pte.l.example.com,+65 7119 2102,"136, Jalan Damai, Johor Bahru",30 Days,Software / Subscription,Y
+V2150,CloudNine Software PTE. LTD.,SG,,361805-28-845951,billing@cloudnine.software.pte.l.vendor-mail.com,+65 8769 7434,"148, Jalan Setia, Petaling Jaya",Immediate,Utility,Y
+V2269,AquaPure Water Filters,MY,MY-2099247629,735388-19-113721,billing@aquapure.water.filters.vendor-mail.com,+60 11-579 1994,"191, Jalan Damai, Petaling Jaya",NET 30,Maint/Repair,Y
+V2350,Vanguard  Office  Supplies  Sdn  Bhd,MY,MY-4300760409,435772-29-104502,billing@vanguard.office.supplies.bizmail.co,+60 14-585 5748,"194, Jalan Kenari, Cyberjaya",N30,Maint/Repair,Y
+V2212,NorthStar Logistics,MY,MY-3114937010,878579-62-212157,billing@northstar.logistics.vendor-mail.com,+60 16-320 8488,"49, Jalan Setia, Petaling Jaya",Net30,Maint/Repair,Y
+V2311,TealTech Solutions Sdn Bhd,MY,MY-5157096799,,billing@tealtech.solutions.sdn.b.bizmail.co,,"8, Jalan Kenanga, Johor Bahru",Immediate,Logistics,N
+V2353,RapidFix IT Services,MY,MY-1376233267,565798-63-942725,billing@rapidfix.it.services.vendor-mail.com,+60 16-846 7786,,Net30,Professional Services,Y
+V2062,BlueWave Marketing Agency,MY,,681128-36-714867,billing@bluewave.marketing.agenc.vendor-mail.com,+60 12-907 1046,"38, Jalan Kenanga, George Town",NET-45,Marketing / Advertising,Y
+V2111,Omega Energy Solutions,MY,MY-5022964382,283568-63-978292,,+60 16-906 9116,,NET-45,Utilities,Y
+V2077,SilverLine Security Services,MY,MY-5560712830,,billing@silverline.security.serv.bizmail.co,+60 11-616 3827,,COD,Professional Services,Y
+V2005,Omega  Energy  Solutions,MY,MY-3119634399,214975-29-757924,,+60 19-165 7304,"120, Jalan Kenari, Petaling Jaya",,Utilities,Y
+V2220,AlphaOmega Consulting,MY,,,,+60 16-656 9798,"90, Jalan Kenanga, Shah Alam",Net 45,Prof Services,Y
+V2120,Metro Maintenance Co.,MY,,568127-86-804667,billing@metro.maintenance.co.example.com,+60 10-511 8191,,30 Days,Maintenance / Repairs,Y
+V2276,TealTech Solutions Sdn Bhd,MY,MY-3167796058,,billing@tealtech.solutions.sdn.b.finance-vendors.net,,"122, Jalan Kenari, Cyberjaya",NET 30,Marketing,Y
+V2303,Skyline Telecom Services,MY,MY-3882455823,,,,"144, Jalan Kenari, Kuala Lumpur",30 Days,Marketing,Y
+V2358,RAPIDFIX IT SERVICES,MY,MY-1617262027,,billing@rapidfix.it.services.finance-vendors.net,+60 12-204 4569,,30 Days,Professional Services,Y
+V2071, Omega Energy Solutions ,MY,MY-2324651201,,billing@omega.energy.solutions.example.com,,"55, Jalan Kenanga, Petaling Jaya",NET-45,Utilities,Y
+V2457,Peninsula Printing & Stationery,MY,MY-7254789317,846216-48-510087,billing@peninsula.printing.stati.vendor-mail.com,+60 12-732 8079,"169, Jalan Kenanga, Cyberjaya",Net30,Office Supplies,Y
+V2205,BrightSpark Electrical Services,MY,,368322-92-342389,billing@brightspark.electrical.s.bizmail.co,+60 10-202 3862,"75, Jalan Melur, Cyberjaya",Net 45,Maintenance / Repairs,Y
+V2015,ALPHAOMEGA CONSULTING,MY,,690341-22-176819,billing@alphaomega.consulting.bizmail.co,,"18, Jalan Kenanga, Petaling Jaya",NET-45,Software,Y
+V2379,BlueWave Marketing Agency,MY,,226502-76-796482,billing@bluewave.marketing.agenc.bizmail.co,+60 11-343 3003,"81, Jalan Melur, George Town",Immediate,Marketing / Advertising,N
+V2309,Sunrise Utilities Berhad,MY,MY-9888897104,,billing@sunrise.utilities.berhad.finance-vendors.net,+60 10-192 4565,"149, Jalan Setia, Kuala Lumpur",N30,Utilities,N
+V2293,BrightSpark Electrical Services,MY,MY-7645781604,684632-36-151295,,,"38, Jalan Meranti, Cyberjaya",NET-45,Maintenance / Repairs,Y
+V2313,EverClean Facility Management,MY,MY-5252952412,,billing@everclean.facility.manag.finance-vendors.net,+60 19-535 3945,"109, Jalan Kenari, Johor Bahru",Immediate,Maintenance / Repairs,Y
+V2109,SilverLine Security Services,MY,MY-3057629778,,billing@silverline.security.serv.bizmail.co,,"151, Jalan Kenanga, Shah Alam",NET 30,Professional Services,Y
+V2441,GreenLeaf Professional Services,MY,MY-8268862104,693595-52-746030,billing@greenleaf.professional.s.bizmail.co,+60 17-997 1691,"1, Jalan Setia, Shah Alam",30 Days,Professional Services,Y
+V2323,BrightSpark Electrical Services,MY,,779378-82-942216,billing@brightspark.electrical.s.example.com,+60 14-401 8650,"20, Jalan Setia, Johor Bahru",NET-45,Maint/Repair,Y
+V2494,Skyline Telecom Services,MY,MY-1150346559,630734-48-481219,billing@skyline.telecom.services.vendor-mail.com,+60 10-354 5925,,,Maint/Repair,N
+V2451,Metro Maintenance Co.,MY,MY-6196373651,,billing@metro.maintenance.co.finance-vendors.net,+60 17-448 2406,"49, Jalan Damai, Cyberjaya",Immediate,Software,N
+V2455,RapidFix IT Services,MY,,530819-60-264663,billing@rapidfix.it.services.vendor-mail.com,+60 17-860 2126,"53, Jalan Kenanga, Shah Alam",NET-45,Utility,Y
+V2244,SUNRISE UTILITIES BERHAD,MY,MY-8643636805,514337-61-714549,billing@sunrise.utilities.berhad.example.com,+60 11-192 5661,"144, Jalan Kenari, Petaling Jaya",Net 45,Maint/Repair,Y
+V2048,BrightSpark Electrical Services,MY,MY-4921003983,223172-92-972565,,+60 14-621 5479,"124, Jalan Damai, Shah Alam",COD,Maintenance / Repairs,N
+V2249,Zenith Catering,MY,MY-1550812184,543732-71-667036,,+60 12-568 2972,"118, Jalan Melur, Cyberjaya",NET 30,Other / Unclear,N
+V2445,GreenLeaf Professional Services,MY,MY-8277194571,550405-91-356428,billing@greenleaf.professional.s.vendor-mail.com,+60 14-908 3434,"14, Jalan Setia, Petaling Jaya",N30,Maint/Repair,Y
+V2425,CloudNine Software Pte Ltd,SG,SG-84238655,607690-13-527288,billing@cloudnine.software.pte.l.example.com,+65 9946 2663,,,Software / Subscription,Y
+V2291,RAPIDFIX IT SERVICES,MY,MY-5079161918,499095-15-905579,,+60 12-266 3369,,NET 30,Utility,Y
+V2489,EverClean Facility Management,MY,MY-1900939604,305159-93-109576,billing@everclean.facility.manag.example.com,+60 12-485 7997,"44, Jalan Meranti, Kuala Lumpur",Net 45,Maintenance / Repairs,Y
+V2135,VANGUARD OFFICE SUPPLIES SDN BHD,MY,MY-9989642546,440189-59-112940,billing@vanguard.office.supplies.finance-vendors.net,+60 18-348 9537,,Immediate,Office Supplies,Y
+V2412,Omega Energy Solutions,MY,MY-9472515108,813944-99-680502,billing@omega.energy.solutions.bizmail.co,+60 10-946 5583,"157, Jalan Kenanga, Cyberjaya",Immediate,Utilities,N
+V2147,TealTech Solutions Sdn. Bhd,MY,,,billing@tealtech.solutions.sdn.b.finance-vendors.net,+60 11-686 2871,"140, Jalan Melur, George Town",NET 30,Maint/Repair,Y
+V2456,Crescent Media House,MY,MY-3523258748,818102-68-388820,billing@crescent.media.house.vendor-mail.com,+60 16-719 5044,"146, Jalan Damai, Johor Bahru",COD,Marketing / Advertising,Y
+V2476,Harbor Freight & Couriers,MY,MY-2850914417,,,,"129, Jalan Meranti, Johor Bahru",30 Days,Logistics / Delivery,Y
+V2403,silverline security services,MY,MY-1093702563,,,+60 17-582 1321,"150, Jalan Kenanga, Shah Alam",NET-45,Marketing,Y
+V2248,Metro Maintenance Co.,MY,MY-2529125930,225701-20-808640,billing@metro.maintenance.co.finance-vendors.net,+60 18-143 8901,"81, Jalan Damai, George Town",NET-45,Maintenance / Repairs,Y
+V2461,BrightSpark Electrical Services,MY,MY-8204305733,,billing@brightspark.electrical.s.vendor-mail.com,+60 18-321 8242,"163, Jalan Kenari, Cyberjaya",Net30,Utility,N
+V2281,Zenith Catering,MY,MY-8130076816,120005-47-780956,billing@zenith.catering.finance-vendors.net,+60 11-423 8940,"137, Jalan Meranti, Shah Alam",30 Days,Marketing,Y
+V2264,Metro Maintenance Co.,MY,MY-8261722027,262520-57-908239,,+60 11-802 6544,"195, Jalan Setia, Kuala Lumpur",NET 30,Maintenance / Repairs,Y
+V2162,Sunrise Utilities Berhad,MY,MY-1495354059,102693-15-112884,billing@sunrise.utilities.berhad.finance-vendors.net,+60 12-283 1579,"183, Jalan Setia, Cyberjaya",Immediate,Software,Y
+V2081,TealTech  Solutions  Sdn  Bhd,MY,MY-4090596936,740255-46-888939,billing@tealtech.solutions.sdn.b.finance-vendors.net,+60 13-416 8684,"50, Jalan Melur, Cyberjaya",COD,Utility,N
+V2352,VANGUARD OFFICE SUPPLIES SDN BHD,MY,MY-7493077954,,billing@vanguard.office.supplies.example.com,+60 15-507 3423,"110, Jalan Melur, Johor Bahru",Net 45,Office supply,Y
+V2285,alphaomega consulting,MY,MY-8582485644,534152-62-418083,billing@alphaomega.consulting.bizmail.co,+60 13-209 3155,,NET-45,Professional Services,Y
+V2274, AlphaOmega Consulting ,MY,,823092-99-704223,billing@alphaomega.consulting.example.com,+60 14-138 7251,,NET 30,Maint/Repair,Y
+V2385, SilverLine Security Services ,MY,MY-5868387535,,billing@silverline.security.serv.bizmail.co,+60 13-186 7791,"101, Jalan Damai, George Town",30 Days,Professional Services,Y
+V2035,Crescent Media House,MY,MY-7291584955,721254-44-437960,billing@crescent.media.house.example.com,+60 17-349 8613,"172, Jalan Damai, Petaling Jaya",NET 30,Utility,Y
+V2086,Peninsula  Printing  &  Stationery,MY,,698384-63-296412,billing@peninsula.printing.stati.example.com,+60 15-169 9618,"130, Jalan Kenari, Kuala Lumpur",Immediate,Maint/Repair,Y
+V2149,crescent media house,MY,MY-4494084172,697766-54-658136,billing@crescent.media.house.vendor-mail.com,+60 14-396 5380,"132, Jalan Setia, Kuala Lumpur",N30,Maint/Repair,Y
+V2407,Sunrise Utilities Berhad,MY,MY-8702948480,617708-48-346120,billing@sunrise.utilities.berhad.example.com,+60 15-367 6849,"45, Jalan Kenari, Kuala Lumpur",Net30,Prof Services,Y
+V2085,Peninsula Printing & Stationery,MY,MY-1205082311,932463-89-579318,,+60 17-711 9782,,,Office Supplies,Y
+V2019,GreenLeaf Professional Services,MY,,,billing@greenleaf.professional.s.finance-vendors.net,+60 12-342 3662,"46, Jalan Damai, Kuala Lumpur",N30,Logistics,N
+V2421,AlphaOmega Consulting,MY,,564620-45-777292,,+60 10-685 6060,"32, Jalan Setia, George Town",Net30,Professional Services,Y
+V2365, BrightSpark Electrical Services ,MY,MY-2578148768,,billing@brightspark.electrical.s.example.com,+60 18-774 2392,,Immediate,Maintenance / Repairs,Y
+V2395,TealTech Solutions Sdn Bhd,MY,MY-4428015166,673734-87-499917,,+60 13-889 7535,,30 Days,Software,N
+V2078,RapidFix IT Services,MY,MY-8621268224,154909-90-778748,billing@rapidfix.it.services.bizmail.co,,"73, Jalan Melur, Cyberjaya",N30,Professional Services,Y
+V2116, AquaPure Water Filters ,MY,MY-2553854176,217659-17-969032,billing@aquapure.water.filters.vendor-mail.com,+60 12-268 6375,"114, Jalan Meranti, Cyberjaya",30 Days,Logistics,Y
+V2213,OMEGA ENERGY SOLUTIONS,MY,MY-7229869819,628689-27-623059,,+60 18-543 8912,"46, Jalan Setia, George Town",N30,Utilities,Y
+V2144,OMEGA ENERGY SOLUTIONS,MY,MY-8926438617,953266-96-840282,billing@omega.energy.solutions.example.com,+60 15-220 4908,"47, Jalan Melur, Cyberjaya",N30,Marketing,N
+V2166,tealtech solutions sdn bhd,MY,MY-1399546384,986575-76-533121,billing@tealtech.solutions.sdn.b.bizmail.co,+60 11-694 2565,"164, Jalan Damai, Kuala Lumpur",NET 30,Software / Subscription,Y
+V2041,Skyline  Telecom  Services,MY,MY-7539399243,564226-48-717113,billing@skyline.telecom.services.bizmail.co,+60 10-724 2625,"54, Jalan Setia, Shah Alam",NET-45,Utilities,Y
+V2327,Peninsula  Printing  &  Stationery,MY,,778506-21-483102,billing@peninsula.printing.stati.bizmail.co,,"197, Jalan Melur, Cyberjaya",30 Days,Office Supplies,N
+V2439, Harbor Freight & Couriers ,MY,MY-2909646911,,billing@harbor.freight.couriers.example.com,,"132, Jalan Setia, Petaling Jaya",NET-45,Logistics / Delivery,Y
+V2208,SilverLine Security Services,MY,,112960-96-650311,billing@silverline.security.serv.vendor-mail.com,+60 15-631 9570,"159, Jalan Meranti, Johor Bahru",30 Days,Utility,N
+V2246, AlphaOmega Consulting ,MY,MY-4702361794,370343-18-501261,billing@alphaomega.consulting.vendor-mail.com,+60 13-919 6172,"91, Jalan Kenari, George Town",NET 30,Logistics,Y
+V2059,northstar logistics,MY,,,billing@northstar.logistics.example.com,,"35, Jalan Damai, Johor Bahru",Net 45,Logistics,Y
+V2119,Sunrise Utilities Berhad,MY,MY-5203589186,892911-12-412856,billing@sunrise.utilities.berhad.finance-vendors.net,+60 13-353 8546,"71, Jalan Kenanga, Cyberjaya",Net30,Office supply,Y
+V2221,GreenLeaf Professional Services,MY,MY-1037811610,567315-40-773462,billing@greenleaf.professional.s.vendor-mail.com,+60 15-490 2857,"139, Jalan Setia, Petaling Jaya",NET 30,Marketing,N
+V2383,CLOUDNINE SOFTWARE PTE LTD,SG,SG-75993764,533021-52-852233,billing@cloudnine.software.pte.l.example.com,+65 8860 5275,"91, Jalan Damai, George Town",,Logistics,N
+V2490,NorthStar Logistics,MY,MY-7843568215,757428-61-356902,,+60 17-409 3826,"97, Jalan Setia, Cyberjaya",Net30,Maint/Repair,N
+V2427,Vanguard Office Supplies Sdn Bhd,MY,MY-7365941525,980266-97-498619,billing@vanguard.office.supplies.vendor-mail.com,+60 18-388 1745,,,Office Supplies,Y
+V2033,NorthStar Logistics,MY,,810250-58-515922,billing@northstar.logistics.vendor-mail.com,,"161, Jalan Kenanga, Kuala Lumpur",NET-45,Logistics / Delivery,Y
+V2328,GreenLeaf Professional Services,MY,MY-4850269395,476712-72-188984,billing@greenleaf.professional.s.finance-vendors.net,+60 12-136 4163,,30 Days,Utility,Y
+V2009,Metro Maintenance Co.,MY,,,billing@metro.maintenance.co.vendor-mail.com,,"16, Jalan Kenanga, Kuala Lumpur",NET 30,Maint/Repair,Y
+V2344,BlueWave Marketing Agency,MY,,,billing@bluewave.marketing.agenc.vendor-mail.com,+60 13-428 6778,"129, Jalan Setia, Johor Bahru",NET-45,Marketing / Advertising,Y
+V2273,Metro Maintenance Co.,MY,MY-1664494972,,billing@metro.maintenance.co.vendor-mail.com,+60 19-355 4817,"77, Jalan Meranti, George Town",Immediate,Maintenance / Repairs,Y
+V2012,metro maintenance co.,MY,MY-3067418686,161483-31-497382,,+60 17-392 7930,"188, Jalan Kenari, Cyberjaya",COD,Maintenance / Repairs,Y
+V2295,NorthStar Logistics,MY,MY-1249900899,759531-77-191928,billing@northstar.logistics.bizmail.co,+60 15-365 9608,"160, Jalan Melur, Shah Alam",COD,Marketing,N
+V2233, EverClean Facility Management ,MY,MY-8080359881,,billing@everclean.facility.manag.bizmail.co,+60 14-692 9918,"97, Jalan Setia, Johor Bahru",Net 45,Maintenance / Repairs,Y
+V2329,Skyline Telecom Services,MY,MY-5277072865,,,+60 10-515 2936,,,Utilities,Y
+V2030,silverline security services,MY,MY-3294043548,720644-82-795205,,+60 12-987 8564,,NET-45,Utility,Y
+V2243,Crescent Media House,MY,MY-7418263314,,billing@crescent.media.house.bizmail.co,+60 19-622 9451,"158, Jalan Kenanga, Cyberjaya",NET 30,Marketing / Advertising,Y
+V2167,Peninsula Printing & Stationery,MY,MY-6696207128,344959-19-312559,,+60 11-259 2731,,COD,Prof Services,Y
+V2188,EverClean Facility Management,MY,MY-5381866906,417776-49-393964,billing@everclean.facility.manag.example.com,+60 13-237 5923,"114, Jalan Melur, Petaling Jaya",Immediate,Maintenance / Repairs,Y
+V2340,SilverLine Security Services,MY,,358635-41-443194,billing@silverline.security.serv.vendor-mail.com,+60 19-252 1083,"12, Jalan Meranti, Johor Bahru",,Office supply,N
+V2324,cloudnine software pte ltd,SG,SG-47216895,501393-59-448813,billing@cloudnine.software.pte.l.bizmail.co,+65 7084 3915,"126, Jalan Kenanga, George Town",Immediate,Software,Y
+V2130,Zenith  Catering,MY,MY-3044426338,836986-31-186702,billing@zenith.catering.finance-vendors.net,+60 15-679 2562,"11, Jalan Kenanga, Shah Alam",COD,Other / Unclear,Y
+V2467, Crescent Media House ,MY,MY-2411712184,,billing@crescent.media.house.example.com,+60 16-763 5726,"59, Jalan Setia, Petaling Jaya",Net 45,Marketing / Advertising,Y
+V2043,NorthStar Logistics,MY,,,billing@northstar.logistics.vendor-mail.com,,,NET-45,Marketing,N
+V2345, RapidFix IT Services ,MY,MY-5822000305,811257-78-406461,billing@rapidfix.it.services.bizmail.co,+60 11-292 8501,,Immediate,Software,Y
