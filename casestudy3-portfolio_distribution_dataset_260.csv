@@ -1,0 +1,261 @@
+Record_ID,Year,Portfolio_Code,Portfolio_Name,Profit_Center_Code,Group_Type_of_Business,Segment_Group,Class_of_Business,Group_4_Class,Region,Group_Country_MGM,Payment_Partner_Name,Responsible_Partner_Name,Responsible_Partner_Country
+REC-2024-00001,2024,P-MRN,Marine Portfolio,PC-004,SME,SME,Travel,Private,Malaysia,Malaysia,Broker Z,Partner Gamma,Indonesia
+REC-2025-00002,2025,P-MRN,Marine Portfolio,PC-003,SME,SME,Motor,Government,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Singapore
+REC-2025-00003,2025,P-MTR,Motor Portfolio,PC-003,SME,SME,Medical,Private,ASEAN,Vietnam,Bank A,Partner Gamma,Singapore
+REC-2025-00004,2025,P-MED,Medical Portfolio,PC-001,SME,Corporate,Medical,Corporate,Others,UK,E-Wallet X,Partner Gamma,Singapore
+REC-2024-00005,2024,P-FIR,Fire Portfolio,PC-004,Commercial,Individual,Marine,Private,Malaysia,Malaysia,Bank A,Partner Gamma,Singapore
+REC-2024-00006,2024,P-MTR,Motor Portfolio,PC-003,Retail,Individual,PA,Government,Malaysia,Malaysia,E-Wallet X,Partner Alpha,Malaysia
+REC-2024-00007,2024,P-MRN,Marine Portfolio,PC-003,SME,SME,PA,Government,ASEAN,Vietnam,E-Wallet Y,Partner Delta,Malaysia
+REC-2024-00008,2024,P-PA,Personal Accident Portfolio,PC-001,SME,Individual,Motor,Corporate,Malaysia,Malaysia,E-Wallet Y,Partner Gamma,Indonesia
+REC-2025-00009,2025,P-MRN,Marine Portfolio,PC-001,SME,Individual,Travel,Corporate,Others,USA,E-Wallet X,Partner Delta,Singapore
+REC-2025-00010,2025,P-PA,Personal Accident Portfolio,PC-004,SME,Corporate,PA,Private,Others,USA,E-Wallet Y,Partner Gamma,Singapore
+REC-2025-00011,2025,P-MED,Medical Portfolio,PC-003,SME,Corporate,Travel,Private,Malaysia,Malaysia,E-Wallet X,Partner Beta,Singapore
+REC-2025-00012,2025,P-FIR,Fire Portfolio,PC-001,Retail,Corporate,Motor,Government,Others,Japan,Broker Z,Partner Alpha,Malaysia
+REC-2024-00013,2024,P-MED,Medical Portfolio,PC-001,SME,Individual,Travel,Government,Others,Australia,Broker Z,Partner Alpha,Indonesia
+REC-2025-00014,2025,P-MTR,Motor Portfolio,PC-001,Retail,Individual,PA,Private,Others,Australia,Bank A,Partner Delta,Indonesia
+REC-2024-00015,2024,P-TRV,Travel Portfolio,PC-003,Commercial,Individual,Marine,Government,Malaysia,Malaysia,E-Wallet X,Partner Alpha,Malaysia
+REC-2024-00016,2024,P-MTR,Motor Portfolio,PC-003,Commercial,SME,Medical,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Gamma,Malaysia
+REC-2025-00017,2025,P-PA,Personal Accident Portfolio,PC-003,Retail,Individual,Travel,Private,Malaysia,Malaysia,Bank B,Partner Delta,Singapore
+REC-2024-00018,2024,P-MED,Medical Portfolio,PC-002,Commercial,SME,PA,Government,Malaysia,Malaysia,E-Wallet X,Partner Beta,Indonesia
+REC-2024-00019,2024,P-MTR,Motor Portfolio,PC-002,Commercial,Individual,Fire,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Alpha,Malaysia
+REC-2025-00020,2025,P-TRV,Travel Portfolio,PC-004,SME,Corporate,Travel,Government,ASEAN,Singapore,E-Wallet X,Partner Delta,Malaysia
+REC-2024-00021,2024,P-FIR,Fire Portfolio,PC-003,Retail,Individual,Medical,Corporate,Malaysia,Malaysia,E-Wallet Y,Partner Alpha,Singapore
+REC-2024-00022,2024,P-PA,Personal Accident Portfolio,PC-002,SME,Individual,PA,Corporate,Malaysia,Malaysia,Bank A,Partner Beta,Indonesia
+REC-2025-00023,2025,P-MED,Medical Portfolio,PC-003,SME,Corporate,Fire,Corporate,ASEAN,Vietnam,E-Wallet Y,Partner Gamma,Malaysia
+REC-2025-00024,2025,P-PA,Personal Accident Portfolio,PC-001,Commercial,Corporate,Medical,Government,Malaysia,Malaysia,Bank B,Partner Delta,Malaysia
+REC-2024-00025,2024,P-MED,Medical Portfolio,PC-004,Retail,Corporate,Medical,Private,Malaysia,Malaysia,Bank A,Partner Gamma,Malaysia
+REC-2025-00026,2025,P-MED,Medical Portfolio,PC-001,SME,SME,PA,Government,Others,UK,Bank A,Partner Delta,Indonesia
+REC-2024-00027,2024,P-PA,Personal Accident Portfolio,PC-002,SME,SME,PA,Government,Malaysia,Malaysia,Broker Z,Partner Gamma,Singapore
+REC-2024-00028,2024,P-PA,Personal Accident Portfolio,PC-002,Commercial,Corporate,Motor,Government,Malaysia,Malaysia,E-Wallet X,Partner Gamma,Indonesia
+REC-2024-00029,2024,P-FIR,Fire Portfolio,PC-003,SME,Corporate,Travel,Government,Malaysia,Malaysia,E-Wallet X,Partner Beta,Indonesia
+REC-2024-00030,2024,P-MED,Medical Portfolio,PC-002,SME,SME,Fire,Corporate,Malaysia,Malaysia,Broker Z,Partner Gamma,Indonesia
+REC-2025-00031,2025,P-MRN,Marine Portfolio,PC-003,Retail,Individual,Travel,Private,Malaysia,Malaysia,Bank A,Partner Alpha,Indonesia
+REC-2025-00032,2025,P-MTR,Motor Portfolio,PC-003,Retail,Corporate,Travel,Corporate,ASEAN,Philippines,E-Wallet X,Partner Gamma,Singapore
+REC-2025-00033,2025,P-MED,Medical Portfolio,PC-001,Commercial,Corporate,Fire,Private,Others,UK,E-Wallet X,Partner Delta,Singapore
+REC-2025-00034,2025,P-MRN,Marine Portfolio,PC-003,Retail,SME,Medical,Government,Malaysia,Malaysia,E-Wallet X,Partner Beta,Singapore
+REC-2025-00035,2025,P-FIR,Fire Portfolio,PC-003,Retail,SME,Motor,Government,Malaysia,Malaysia,Broker Z,Partner Alpha,Indonesia
+REC-2025-00036,2025,P-MED,Medical Portfolio,PC-004,Retail,Individual,Marine,Government,Others,USA,Broker Z,Partner Beta,Malaysia
+REC-2025-00037,2025,P-TRV,Travel Portfolio,PC-001,SME,SME,Travel,Private,Others,USA,Bank B,Partner Alpha,Singapore
+REC-2025-00038,2025,P-TRV,Travel Portfolio,PC-002,Commercial,Individual,Marine,Corporate,Malaysia,Malaysia,Bank A,Partner Gamma,Malaysia
+REC-2024-00039,2024,P-MRN,Marine Portfolio,PC-002,SME,SME,PA,Corporate,Malaysia,Malaysia,Bank A,Partner Beta,Indonesia
+REC-2025-00040,2025,P-TRV,Travel Portfolio,PC-004,Commercial,Individual,Travel,Government,Malaysia,Malaysia,Bank A,Partner Alpha,Singapore
+REC-2024-00041,2024,P-MED,Medical Portfolio,PC-003,SME,Corporate,Fire,Corporate,Others,Australia,Bank B,Partner Delta,Indonesia
+REC-2024-00042,2024,P-MED,Medical Portfolio,PC-003,SME,Individual,Medical,Private,ASEAN,Thailand,Bank A,Partner Alpha,Malaysia
+REC-2024-00043,2024,P-TRV,Travel Portfolio,PC-004,Retail,SME,Travel,Government,Malaysia,Malaysia,E-Wallet X,Partner Delta,Singapore
+REC-2025-00044,2025,P-TRV,Travel Portfolio,PC-002,Commercial,Individual,Marine,Government,Malaysia,Malaysia,Bank B,Partner Alpha,Malaysia
+REC-2024-00045,2024,P-MTR,Motor Portfolio,PC-001,SME,SME,Travel,Corporate,ASEAN,Vietnam,Bank A,Partner Beta,Malaysia
+REC-2025-00046,2025,P-TRV,Travel Portfolio,PC-003,Commercial,Corporate,Medical,Corporate,Malaysia,Malaysia,Bank A,Partner Gamma,Indonesia
+REC-2025-00047,2025,P-PA,Personal Accident Portfolio,PC-003,SME,Corporate,Motor,Corporate,Malaysia,Malaysia,Broker Z,Partner Alpha,Malaysia
+REC-2025-00048,2025,P-PA,Personal Accident Portfolio,PC-003,Commercial,SME,Motor,Private,Others,USA,E-Wallet Y,Partner Delta,Indonesia
+REC-2025-00049,2025,P-PA,Personal Accident Portfolio,PC-001,SME,Individual,Travel,Government,Malaysia,Malaysia,E-Wallet X,Partner Gamma,Singapore
+REC-2025-00050,2025,P-TRV,Travel Portfolio,PC-003,Commercial,Corporate,Medical,Private,Malaysia,Malaysia,E-Wallet X,Partner Gamma,Indonesia
+REC-2024-00051,2024,P-PA,Personal Accident Portfolio,PC-001,Retail,SME,Medical,Corporate,ASEAN,Thailand,Broker Z,Partner Beta,Indonesia
+REC-2025-00052,2025,P-MRN,Marine Portfolio,PC-002,Retail,SME,PA,Corporate,ASEAN,Indonesia,E-Wallet X,Partner Beta,Singapore
+REC-2024-00053,2024,P-TRV,Travel Portfolio,PC-001,SME,Individual,PA,Corporate,Malaysia,Malaysia,Bank B,Partner Gamma,Singapore
+REC-2024-00054,2024,P-FIR,Fire Portfolio,PC-004,SME,Corporate,Motor,Corporate,Malaysia,Malaysia,Bank A,Partner Beta,Singapore
+REC-2025-00055,2025,P-MRN,Marine Portfolio,PC-003,SME,Corporate,Marine,Private,Malaysia,Malaysia,E-Wallet Y,Partner Beta,Singapore
+REC-2024-00056,2024,P-MTR,Motor Portfolio,PC-002,Commercial,Individual,PA,Private,ASEAN,Singapore,Bank A,Partner Gamma,Malaysia
+REC-2024-00057,2024,P-MRN,Marine Portfolio,PC-004,SME,Individual,Marine,Government,Malaysia,Malaysia,Bank B,Partner Alpha,Indonesia
+REC-2025-00058,2025,P-MTR,Motor Portfolio,PC-001,Retail,Individual,Travel,Corporate,Malaysia,Malaysia,Bank B,Partner Delta,Indonesia
+REC-2025-00059,2025,P-MRN,Marine Portfolio,PC-003,SME,Corporate,Medical,Government,Others,Australia,E-Wallet Y,Partner Alpha,Indonesia
+REC-2025-00060,2025,P-MRN,Marine Portfolio,PC-004,SME,SME,Motor,Corporate,ASEAN,Philippines,E-Wallet Y,Partner Delta,Malaysia
+REC-2024-00061,2024,P-PA,Personal Accident Portfolio,PC-002,SME,Individual,Fire,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Delta,Malaysia
+REC-2025-00062,2025,P-FIR,Fire Portfolio,PC-003,Retail,Corporate,Medical,Government,ASEAN,Singapore,E-Wallet Y,Partner Alpha,Indonesia
+REC-2025-00063,2025,P-FIR,Fire Portfolio,PC-003,Retail,Corporate,Motor,Private,ASEAN,Thailand,E-Wallet Y,Partner Alpha,Singapore
+REC-2025-00064,2025,P-MTR,Motor Portfolio,PC-003,Retail,Corporate,Marine,Government,Malaysia,Malaysia,Bank B,Partner Gamma,Malaysia
+REC-2025-00065,2025,P-TRV,Travel Portfolio,PC-002,Retail,SME,PA,Corporate,ASEAN,Singapore,E-Wallet Y,Partner Gamma,Indonesia
+REC-2024-00066,2024,P-MED,Medical Portfolio,PC-001,Commercial,Individual,Fire,Government,ASEAN,Vietnam,E-Wallet Y,Partner Beta,Malaysia
+REC-2025-00067,2025,P-MRN,Marine Portfolio,PC-001,SME,Corporate,PA,Government,ASEAN,Singapore,Bank B,Partner Delta,Malaysia
+REC-2024-00068,2024,P-PA,Personal Accident Portfolio,PC-003,Commercial,Corporate,Motor,Government,ASEAN,Indonesia,Bank B,Partner Gamma,Malaysia
+REC-2024-00069,2024,P-MED,Medical Portfolio,PC-001,Commercial,Individual,Medical,Corporate,ASEAN,Singapore,E-Wallet Y,Partner Delta,Malaysia
+REC-2024-00070,2024,P-MRN,Marine Portfolio,PC-002,SME,Individual,Fire,Government,ASEAN,Indonesia,E-Wallet X,Partner Alpha,Malaysia
+REC-2025-00071,2025,P-TRV,Travel Portfolio,PC-001,Retail,Individual,Travel,Private,Malaysia,Malaysia,Broker Z,Partner Alpha,Malaysia
+REC-2025-00072,2025,P-FIR,Fire Portfolio,PC-004,Commercial,Individual,Motor,Government,Others,UK,Bank B,Partner Alpha,Singapore
+REC-2024-00073,2024,P-MED,Medical Portfolio,PC-003,Commercial,Individual,Medical,Government,Malaysia,Malaysia,E-Wallet X,Partner Delta,Malaysia
+REC-2024-00074,2024,P-MTR,Motor Portfolio,PC-002,SME,Individual,Motor,Private,Others,Japan,E-Wallet Y,Partner Beta,Indonesia
+REC-2024-00075,2024,P-MRN,Marine Portfolio,PC-002,SME,Individual,Motor,Government,ASEAN,Thailand,Bank B,Partner Delta,Singapore
+REC-2024-00076,2024,P-PA,Personal Accident Portfolio,PC-001,SME,Corporate,Medical,Corporate,Others,Japan,E-Wallet Y,Partner Alpha,Indonesia
+REC-2024-00077,2024,P-MRN,Marine Portfolio,PC-001,Commercial,Corporate,Fire,Government,Malaysia,Malaysia,E-Wallet Y,Partner Gamma,Malaysia
+REC-2024-00078,2024,P-MRN,Marine Portfolio,PC-001,Retail,SME,Fire,Corporate,Malaysia,Malaysia,E-Wallet Y,Partner Beta,Singapore
+REC-2024-00079,2024,P-MED,Medical Portfolio,PC-002,Retail,Corporate,Travel,Corporate,ASEAN,Philippines,Bank B,Partner Alpha,Malaysia
+REC-2024-00080,2024,P-TRV,Travel Portfolio,PC-001,SME,SME,PA,Corporate,ASEAN,Indonesia,E-Wallet Y,Partner Beta,Malaysia
+REC-2024-00081,2024,P-PA,Personal Accident Portfolio,PC-003,SME,Corporate,PA,Government,Malaysia,Malaysia,Broker Z,Partner Delta,Singapore
+REC-2025-00082,2025,P-TRV,Travel Portfolio,PC-003,Retail,Corporate,PA,Corporate,ASEAN,Singapore,E-Wallet X,Partner Delta,Singapore
+REC-2024-00083,2024,P-MED,Medical Portfolio,PC-001,Commercial,SME,Marine,Government,Malaysia,Malaysia,Broker Z,Partner Gamma,Indonesia
+REC-2024-00084,2024,P-FIR,Fire Portfolio,PC-001,Commercial,Individual,Medical,Government,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Singapore
+REC-2025-00085,2025,P-MED,Medical Portfolio,PC-003,SME,Corporate,PA,Government,Malaysia,Malaysia,E-Wallet X,Partner Gamma,Indonesia
+REC-2024-00086,2024,P-MTR,Motor Portfolio,PC-001,SME,Corporate,Travel,Private,Malaysia,Malaysia,Bank A,Partner Beta,Indonesia
+REC-2025-00087,2025,P-TRV,Travel Portfolio,PC-003,Commercial,Individual,Motor,Private,Malaysia,Malaysia,Bank A,Partner Beta,Indonesia
+REC-2025-00088,2025,P-MTR,Motor Portfolio,PC-002,SME,Individual,Marine,Government,Malaysia,Malaysia,Broker Z,Partner Delta,Indonesia
+REC-2025-00089,2025,P-TRV,Travel Portfolio,PC-003,Commercial,SME,Medical,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Beta,Malaysia
+REC-2025-00090,2025,P-TRV,Travel Portfolio,PC-001,Retail,Corporate,PA,Government,Malaysia,Malaysia,Bank A,Partner Gamma,Singapore
+REC-2024-00091,2024,P-MRN,Marine Portfolio,PC-002,SME,SME,Medical,Government,Malaysia,Malaysia,E-Wallet X,Partner Alpha,Indonesia
+REC-2025-00092,2025,P-FIR,Fire Portfolio,PC-003,SME,Individual,Medical,Corporate,Others,Japan,Bank A,Partner Delta,Malaysia
+REC-2025-00093,2025,P-MRN,Marine Portfolio,PC-003,SME,Individual,Marine,Government,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Indonesia
+REC-2024-00094,2024,P-TRV,Travel Portfolio,PC-001,Retail,Individual,Fire,Private,ASEAN,Vietnam,Bank B,Partner Alpha,Indonesia
+REC-2025-00095,2025,P-TRV,Travel Portfolio,PC-003,Commercial,Individual,Fire,Corporate,Malaysia,Malaysia,Bank B,Partner Gamma,Indonesia
+REC-2024-00096,2024,P-FIR,Fire Portfolio,PC-002,Retail,Corporate,Fire,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Gamma,Indonesia
+REC-2025-00097,2025,P-TRV,Travel Portfolio,PC-003,Retail,SME,Travel,Corporate,Malaysia,Malaysia,Bank B,Partner Alpha,Singapore
+REC-2025-00098,2025,P-MRN,Marine Portfolio,PC-003,SME,Corporate,Fire,Corporate,Malaysia,Malaysia,E-Wallet Y,Partner Beta,Singapore
+REC-2025-00099,2025,P-MTR,Motor Portfolio,PC-002,Retail,Corporate,Medical,Corporate,ASEAN,Thailand,Broker Z,Partner Gamma,Indonesia
+REC-2024-00100,2024,P-TRV,Travel Portfolio,PC-001,Retail,Individual,PA,Private,Malaysia,Malaysia,Broker Z,Partner Gamma,Singapore
+REC-2024-00101,2024,P-MTR,Motor Portfolio,PC-001,Retail,Corporate,Motor,Government,ASEAN,Thailand,Bank B,Partner Gamma,Malaysia
+REC-2025-00102,2025,P-MED,Medical Portfolio,PC-001,Commercial,SME,Fire,Private,Malaysia,Malaysia,Bank A,Partner Alpha,Singapore
+REC-2024-00103,2024,P-MTR,Motor Portfolio,PC-003,Retail,SME,Medical,Private,ASEAN,Indonesia,E-Wallet Y,Partner Gamma,Indonesia
+REC-2024-00104,2024,P-MRN,Marine Portfolio,PC-002,Retail,SME,Marine,Private,Malaysia,Malaysia,E-Wallet X,Partner Beta,Malaysia
+REC-2025-00105,2025,P-PA,Personal Accident Portfolio,PC-003,SME,Individual,Fire,Private,Malaysia,Malaysia,E-Wallet Y,Partner Gamma,Malaysia
+REC-2025-00106,2025,P-PA,Personal Accident Portfolio,PC-002,Retail,SME,Travel,Corporate,ASEAN,Singapore,Bank B,Partner Alpha,Singapore
+REC-2024-00107,2024,P-MED,Medical Portfolio,PC-004,Retail,Corporate,Marine,Corporate,Malaysia,Malaysia,Bank A,Partner Gamma,Indonesia
+REC-2024-00108,2024,P-PA,Personal Accident Portfolio,PC-001,Commercial,Individual,Marine,Private,ASEAN,Vietnam,Bank A,Partner Alpha,Singapore
+REC-2025-00109,2025,P-MRN,Marine Portfolio,PC-002,Commercial,Corporate,Travel,Government,Malaysia,Malaysia,Broker Z,Partner Delta,Malaysia
+REC-2024-00110,2024,P-MED,Medical Portfolio,PC-001,Retail,Individual,Motor,Government,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Malaysia
+REC-2024-00111,2024,P-MTR,Motor Portfolio,PC-004,Retail,Individual,Travel,Private,Malaysia,Malaysia,Bank A,Partner Gamma,Malaysia
+REC-2024-00112,2024,P-MRN,Marine Portfolio,PC-002,Retail,Individual,Travel,Government,Malaysia,Malaysia,Broker Z,Partner Alpha,Indonesia
+REC-2024-00113,2024,P-FIR,Fire Portfolio,PC-002,Commercial,Individual,Travel,Private,Malaysia,Malaysia,E-Wallet X,Partner Beta,Singapore
+REC-2025-00114,2025,P-PA,Personal Accident Portfolio,PC-001,Commercial,Corporate,Fire,Government,ASEAN,Indonesia,E-Wallet Y,Partner Delta,Singapore
+REC-2025-00115,2025,P-MED,Medical Portfolio,PC-003,Retail,Corporate,PA,Government,Malaysia,Malaysia,E-Wallet Y,Partner Alpha,Malaysia
+REC-2025-00116,2025,P-PA,Personal Accident Portfolio,PC-002,SME,Corporate,PA,Corporate,Malaysia,Malaysia,Bank A,Partner Gamma,Indonesia
+REC-2024-00117,2024,P-MTR,Motor Portfolio,PC-001,Commercial,SME,Motor,Private,ASEAN,Indonesia,E-Wallet Y,Partner Beta,Singapore
+REC-2025-00118,2025,P-PA,Personal Accident Portfolio,PC-004,Commercial,SME,PA,Government,ASEAN,Thailand,Bank A,Partner Delta,Indonesia
+REC-2025-00119,2025,P-MED,Medical Portfolio,PC-001,Commercial,Individual,Medical,Corporate,Malaysia,Malaysia,Broker Z,Partner Delta,Malaysia
+REC-2024-00120,2024,P-MRN,Marine Portfolio,PC-003,Commercial,Corporate,Marine,Corporate,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Malaysia
+REC-2024-00121,2024,P-MRN,Marine Portfolio,PC-004,Commercial,Corporate,Medical,Government,Others,USA,E-Wallet Y,Partner Gamma,Malaysia
+REC-2025-00122,2025,P-FIR,Fire Portfolio,PC-004,Retail,Corporate,Medical,Private,Malaysia,Malaysia,E-Wallet Y,Partner Beta,Indonesia
+REC-2025-00123,2025,P-TRV,Travel Portfolio,PC-004,SME,Corporate,Fire,Government,Malaysia,Malaysia,E-Wallet Y,Partner Gamma,Singapore
+REC-2024-00124,2024,P-MTR,Motor Portfolio,PC-002,SME,SME,Motor,Government,ASEAN,Thailand,E-Wallet Y,Partner Gamma,Singapore
+REC-2024-00125,2024,P-PA,Personal Accident Portfolio,PC-001,Commercial,Corporate,Travel,Private,ASEAN,Thailand,Bank A,Partner Alpha,Malaysia
+REC-2025-00126,2025,P-PA,Personal Accident Portfolio,PC-002,Commercial,Corporate,PA,Government,Malaysia,Malaysia,Bank B,Partner Alpha,Malaysia
+REC-2024-00127,2024,P-TRV,Travel Portfolio,PC-004,Commercial,Corporate,Medical,Government,ASEAN,Singapore,Bank B,Partner Delta,Indonesia
+REC-2025-00128,2025,P-FIR,Fire Portfolio,PC-004,Commercial,Corporate,PA,Private,Malaysia,Malaysia,E-Wallet X,Partner Delta,Indonesia
+REC-2025-00129,2025,P-PA,Personal Accident Portfolio,PC-001,Retail,SME,Motor,Corporate,Others,Japan,Bank B,Partner Gamma,Singapore
+REC-2025-00130,2025,P-MED,Medical Portfolio,PC-001,Commercial,Individual,Fire,Private,ASEAN,Indonesia,Bank B,Partner Beta,Indonesia
+REC-2024-00131,2024,P-MED,Medical Portfolio,PC-002,Retail,SME,Motor,Government,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Singapore
+REC-2025-00132,2025,P-TRV,Travel Portfolio,PC-004,Retail,Individual,Travel,Private,Malaysia,Malaysia,E-Wallet X,Partner Beta,Singapore
+REC-2025-00133,2025,P-TRV,Travel Portfolio,PC-003,SME,Individual,PA,Government,Others,Japan,Bank A,Partner Alpha,Indonesia
+REC-2025-00134,2025,P-MTR,Motor Portfolio,PC-002,Retail,Corporate,Fire,Government,Malaysia,Malaysia,Broker Z,Partner Beta,Indonesia
+REC-2025-00135,2025,P-PA,Personal Accident Portfolio,PC-003,SME,Individual,Motor,Private,ASEAN,Singapore,E-Wallet X,Partner Delta,Malaysia
+REC-2024-00136,2024,P-MTR,Motor Portfolio,PC-003,Commercial,SME,Medical,Private,Malaysia,Malaysia,Broker Z,Partner Delta,Singapore
+REC-2025-00137,2025,P-PA,Personal Accident Portfolio,PC-004,SME,Individual,Medical,Corporate,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Singapore
+REC-2024-00138,2024,P-MED,Medical Portfolio,PC-001,Retail,Individual,Medical,Private,ASEAN,Indonesia,E-Wallet X,Partner Beta,Malaysia
+REC-2024-00139,2024,P-PA,Personal Accident Portfolio,PC-001,Commercial,SME,Fire,Government,ASEAN,Vietnam,Broker Z,Partner Gamma,Singapore
+REC-2024-00140,2024,P-FIR,Fire Portfolio,PC-004,Retail,SME,Motor,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Alpha,Malaysia
+REC-2024-00141,2024,P-TRV,Travel Portfolio,PC-001,Retail,Individual,Travel,Government,Malaysia,Malaysia,Bank A,Partner Gamma,Indonesia
+REC-2024-00142,2024,P-MTR,Motor Portfolio,PC-001,Retail,SME,Fire,Corporate,ASEAN,Indonesia,Broker Z,Partner Alpha,Malaysia
+REC-2025-00143,2025,P-FIR,Fire Portfolio,PC-001,SME,Corporate,Motor,Corporate,Malaysia,Malaysia,Bank B,Partner Alpha,Malaysia
+REC-2025-00144,2025,P-MTR,Motor Portfolio,PC-001,Commercial,Individual,Marine,Corporate,Malaysia,Malaysia,Broker Z,Partner Gamma,Singapore
+REC-2025-00145,2025,P-MTR,Motor Portfolio,PC-002,Commercial,Individual,PA,Corporate,Malaysia,Malaysia,Bank A,Partner Beta,Malaysia
+REC-2024-00146,2024,P-MED,Medical Portfolio,PC-002,Retail,Individual,Marine,Government,Malaysia,Malaysia,Bank B,Partner Alpha,Indonesia
+REC-2024-00147,2024,P-MRN,Marine Portfolio,PC-002,Commercial,Individual,Travel,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Gamma,Indonesia
+REC-2025-00148,2025,P-MRN,Marine Portfolio,PC-002,Commercial,Individual,PA,Government,Malaysia,Malaysia,E-Wallet Y,Partner Gamma,Singapore
+REC-2025-00149,2025,P-MED,Medical Portfolio,PC-001,Commercial,Corporate,Medical,Corporate,Malaysia,Malaysia,Bank B,Partner Beta,Singapore
+REC-2025-00150,2025,P-TRV,Travel Portfolio,PC-002,SME,Individual,Motor,Government,ASEAN,Singapore,E-Wallet Y,Partner Delta,Indonesia
+REC-2024-00151,2024,P-MED,Medical Portfolio,PC-002,SME,Individual,Travel,Private,Malaysia,Malaysia,E-Wallet X,Partner Beta,Indonesia
+REC-2025-00152,2025,P-FIR,Fire Portfolio,PC-001,SME,Individual,Fire,Private,Malaysia,Malaysia,E-Wallet X,Partner Gamma,Malaysia
+REC-2025-00153,2025,P-FIR,Fire Portfolio,PC-002,SME,Individual,Motor,Government,ASEAN,Thailand,Bank A,Partner Delta,Singapore
+REC-2024-00154,2024,P-FIR,Fire Portfolio,PC-003,Commercial,Corporate,PA,Private,Malaysia,Malaysia,Bank B,Partner Beta,Malaysia
+REC-2025-00155,2025,P-PA,Personal Accident Portfolio,PC-002,SME,SME,PA,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Beta,Indonesia
+REC-2024-00156,2024,P-MTR,Motor Portfolio,PC-004,Retail,Individual,Marine,Government,Others,USA,E-Wallet X,Partner Delta,Malaysia
+REC-2025-00157,2025,P-FIR,Fire Portfolio,PC-002,Retail,Corporate,Fire,Government,Others,Australia,Broker Z,Partner Gamma,Malaysia
+REC-2025-00158,2025,P-TRV,Travel Portfolio,PC-002,SME,SME,Motor,Private,ASEAN,Singapore,Bank A,Partner Delta,Indonesia
+REC-2025-00159,2025,P-FIR,Fire Portfolio,PC-003,SME,SME,Travel,Government,Malaysia,Malaysia,Bank A,Partner Delta,Indonesia
+REC-2025-00160,2025,P-FIR,Fire Portfolio,PC-004,Commercial,Corporate,Medical,Government,Malaysia,Malaysia,E-Wallet X,Partner Beta,Singapore
+REC-2025-00161,2025,P-FIR,Fire Portfolio,PC-003,Commercial,SME,Medical,Government,ASEAN,Philippines,Bank B,Partner Beta,Indonesia
+REC-2025-00162,2025,P-PA,Personal Accident Portfolio,PC-002,Commercial,Corporate,PA,Government,Malaysia,Malaysia,Bank B,Partner Delta,Malaysia
+REC-2025-00163,2025,P-TRV,Travel Portfolio,PC-004,Retail,Individual,PA,Corporate,Malaysia,Malaysia,Bank A,Partner Gamma,Singapore
+REC-2024-00164,2024,P-TRV,Travel Portfolio,PC-004,SME,Individual,PA,Private,Others,Australia,E-Wallet Y,Partner Gamma,Singapore
+REC-2024-00165,2024,P-MRN,Marine Portfolio,PC-004,Commercial,Individual,PA,Private,ASEAN,Vietnam,Broker Z,Partner Alpha,Malaysia
+REC-2024-00166,2024,P-PA,Personal Accident Portfolio,PC-002,Retail,SME,Marine,Government,Malaysia,Malaysia,E-Wallet X,Partner Beta,Malaysia
+REC-2025-00167,2025,P-MED,Medical Portfolio,PC-001,Retail,Individual,Fire,Private,Malaysia,Malaysia,Broker Z,Partner Delta,Indonesia
+REC-2024-00168,2024,P-MED,Medical Portfolio,PC-004,SME,Individual,Travel,Government,Malaysia,Malaysia,E-Wallet Y,Partner Gamma,Singapore
+REC-2025-00169,2025,P-MED,Medical Portfolio,PC-003,Retail,Individual,Marine,Private,ASEAN,Indonesia,Bank B,Partner Alpha,Malaysia
+REC-2024-00170,2024,P-MTR,Motor Portfolio,PC-001,Retail,Individual,Fire,Government,ASEAN,Indonesia,Broker Z,Partner Delta,Singapore
+REC-2024-00171,2024,P-PA,Personal Accident Portfolio,PC-004,SME,SME,Motor,Corporate,ASEAN,Indonesia,E-Wallet X,Partner Beta,Indonesia
+REC-2024-00172,2024,P-PA,Personal Accident Portfolio,PC-002,Commercial,SME,Fire,Corporate,Malaysia,Malaysia,Broker Z,Partner Alpha,Singapore
+REC-2025-00173,2025,P-MED,Medical Portfolio,PC-001,Retail,Corporate,Medical,Corporate,Malaysia,Malaysia,E-Wallet Y,Partner Beta,Indonesia
+REC-2024-00174,2024,P-MRN,Marine Portfolio,PC-004,Commercial,Corporate,Fire,Government,Malaysia,Malaysia,Broker Z,Partner Alpha,Malaysia
+REC-2025-00175,2025,P-MTR,Motor Portfolio,PC-003,Commercial,SME,Travel,Government,ASEAN,Vietnam,E-Wallet Y,Partner Alpha,Malaysia
+REC-2024-00176,2024,P-MED,Medical Portfolio,PC-001,Commercial,Individual,PA,Private,Malaysia,Malaysia,Bank B,Partner Gamma,Indonesia
+REC-2024-00177,2024,P-FIR,Fire Portfolio,PC-004,Commercial,Corporate,Motor,Government,Malaysia,Malaysia,E-Wallet Y,Partner Gamma,Malaysia
+REC-2024-00178,2024,P-FIR,Fire Portfolio,PC-004,Commercial,SME,Medical,Government,ASEAN,Singapore,E-Wallet X,Partner Alpha,Malaysia
+REC-2025-00179,2025,P-MRN,Marine Portfolio,PC-002,Retail,Corporate,Fire,Corporate,Others,USA,Broker Z,Partner Delta,Singapore
+REC-2025-00180,2025,P-MED,Medical Portfolio,PC-004,Commercial,Individual,PA,Government,ASEAN,Philippines,Bank B,Partner Gamma,Malaysia
+REC-2025-00181,2025,P-FIR,Fire Portfolio,PC-001,Commercial,Corporate,Medical,Government,Malaysia,Malaysia,E-Wallet Y,Partner Gamma,Singapore
+REC-2025-00182,2025,P-FIR,Fire Portfolio,PC-001,SME,Corporate,Fire,Corporate,Malaysia,Malaysia,Bank A,Partner Alpha,Singapore
+REC-2025-00183,2025,P-MRN,Marine Portfolio,PC-004,Retail,Individual,Fire,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Alpha,Singapore
+REC-2024-00184,2024,P-FIR,Fire Portfolio,PC-002,SME,Corporate,Fire,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Delta,Malaysia
+REC-2025-00185,2025,P-MRN,Marine Portfolio,PC-004,SME,Individual,Motor,Corporate,Malaysia,Malaysia,Bank A,Partner Gamma,Singapore
+REC-2025-00186,2025,P-MTR,Motor Portfolio,PC-002,Retail,Individual,Motor,Corporate,ASEAN,Singapore,Bank B,Partner Delta,Singapore
+REC-2024-00187,2024,P-MED,Medical Portfolio,PC-004,Retail,SME,Fire,Private,Others,Japan,E-Wallet Y,Partner Alpha,Singapore
+REC-2025-00188,2025,P-FIR,Fire Portfolio,PC-002,Retail,Individual,Travel,Corporate,ASEAN,Singapore,Bank A,Partner Delta,Singapore
+REC-2025-00189,2025,P-MED,Medical Portfolio,PC-002,SME,Corporate,Medical,Private,Others,Japan,E-Wallet Y,Partner Alpha,Singapore
+REC-2025-00190,2025,P-TRV,Travel Portfolio,PC-001,Retail,Corporate,Marine,Private,ASEAN,Indonesia,Bank B,Partner Gamma,Singapore
+REC-2025-00191,2025,P-MTR,Motor Portfolio,PC-004,Retail,Individual,Marine,Corporate,Malaysia,Malaysia,Broker Z,Partner Delta,Indonesia
+REC-2025-00192,2025,P-FIR,Fire Portfolio,PC-003,Commercial,Corporate,Fire,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Beta,Malaysia
+REC-2025-00193,2025,P-MED,Medical Portfolio,PC-004,Commercial,Individual,PA,Corporate,ASEAN,Vietnam,Bank B,Partner Gamma,Singapore
+REC-2024-00194,2024,P-FIR,Fire Portfolio,PC-004,Commercial,Corporate,Motor,Private,Malaysia,Malaysia,Bank A,Partner Delta,Singapore
+REC-2025-00195,2025,P-FIR,Fire Portfolio,PC-003,Commercial,SME,Travel,Private,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Indonesia
+REC-2024-00196,2024,P-FIR,Fire Portfolio,PC-003,Retail,Corporate,Fire,Corporate,ASEAN,Indonesia,E-Wallet X,Partner Delta,Indonesia
+REC-2025-00197,2025,P-FIR,Fire Portfolio,PC-003,Retail,Individual,Medical,Private,Malaysia,Malaysia,Bank A,Partner Gamma,Singapore
+REC-2025-00198,2025,P-MED,Medical Portfolio,PC-004,Commercial,SME,Marine,Private,ASEAN,Vietnam,Bank B,Partner Alpha,Malaysia
+REC-2025-00199,2025,P-FIR,Fire Portfolio,PC-002,SME,Corporate,Motor,Government,ASEAN,Indonesia,Bank A,Partner Delta,Singapore
+REC-2025-00200,2025,P-TRV,Travel Portfolio,PC-001,Retail,Individual,PA,Government,Malaysia,Malaysia,Bank A,Partner Gamma,Indonesia
+REC-2025-00201,2025,P-PA,Personal Accident Portfolio,PC-004,Retail,SME,PA,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Delta,Singapore
+REC-2025-00202,2025,P-PA,Personal Accident Portfolio,PC-002,SME,SME,PA,Government,Malaysia,Malaysia,Bank B,Partner Delta,Singapore
+REC-2025-00203,2025,P-MRN,Marine Portfolio,PC-003,Retail,Corporate,Marine,Government,ASEAN,Philippines,Broker Z,Partner Beta,Singapore
+REC-2025-00204,2025,P-MRN,Marine Portfolio,PC-003,SME,Individual,PA,Government,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Malaysia
+REC-2025-00205,2025,P-PA,Personal Accident Portfolio,PC-003,SME,Individual,Motor,Government,Malaysia,Malaysia,Bank B,Partner Gamma,Indonesia
+REC-2024-00206,2024,P-MED,Medical Portfolio,PC-002,Retail,Corporate,Travel,Corporate,Malaysia,Malaysia,Bank B,Partner Alpha,Singapore
+REC-2024-00207,2024,P-TRV,Travel Portfolio,PC-002,Commercial,SME,Medical,Government,Malaysia,Malaysia,Bank A,Partner Gamma,Singapore
+REC-2024-00208,2024,P-FIR,Fire Portfolio,PC-004,Commercial,Corporate,PA,Private,ASEAN,Philippines,Bank A,Partner Delta,Malaysia
+REC-2024-00209,2024,P-TRV,Travel Portfolio,PC-003,Retail,SME,Motor,Government,Malaysia,Malaysia,Broker Z,Partner Delta,Singapore
+REC-2025-00210,2025,P-TRV,Travel Portfolio,PC-002,Retail,SME,PA,Corporate,ASEAN,Singapore,Bank B,Partner Gamma,Malaysia
+REC-2025-00211,2025,P-MRN,Marine Portfolio,PC-002,SME,Individual,Motor,Private,ASEAN,Indonesia,Bank A,Partner Alpha,Singapore
+REC-2025-00212,2025,P-TRV,Travel Portfolio,PC-002,Retail,Individual,Travel,Private,Malaysia,Malaysia,E-Wallet X,Partner Beta,Singapore
+REC-2024-00213,2024,P-MRN,Marine Portfolio,PC-004,Retail,Individual,Fire,Private,ASEAN,Philippines,Bank A,Partner Beta,Indonesia
+REC-2024-00214,2024,P-TRV,Travel Portfolio,PC-001,Retail,Corporate,Medical,Government,ASEAN,Philippines,Bank A,Partner Delta,Malaysia
+REC-2024-00215,2024,P-PA,Personal Accident Portfolio,PC-002,Retail,Corporate,Travel,Corporate,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Indonesia
+REC-2025-00216,2025,P-PA,Personal Accident Portfolio,PC-001,Retail,Individual,PA,Government,ASEAN,Philippines,E-Wallet Y,Partner Beta,Indonesia
+REC-2024-00217,2024,P-MRN,Marine Portfolio,PC-002,Retail,SME,Motor,Corporate,ASEAN,Vietnam,E-Wallet Y,Partner Beta,Indonesia
+REC-2024-00218,2024,P-MRN,Marine Portfolio,PC-003,Commercial,Individual,Marine,Government,Malaysia,Malaysia,Bank A,Partner Gamma,Indonesia
+REC-2024-00219,2024,P-MED,Medical Portfolio,PC-004,SME,Corporate,PA,Private,Malaysia,Malaysia,Bank B,Partner Alpha,Singapore
+REC-2025-00220,2025,P-PA,Personal Accident Portfolio,PC-003,Retail,SME,Medical,Private,Malaysia,Malaysia,Bank B,Partner Alpha,Indonesia
+REC-2025-00221,2025,P-MRN,Marine Portfolio,PC-003,SME,Corporate,PA,Government,Malaysia,Malaysia,E-Wallet Y,Partner Beta,Malaysia
+REC-2024-00222,2024,P-PA,Personal Accident Portfolio,PC-003,Commercial,SME,Medical,Private,Others,UK,Bank B,Partner Beta,Singapore
+REC-2024-00223,2024,P-MTR,Motor Portfolio,PC-003,SME,Corporate,Marine,Government,Malaysia,Malaysia,Broker Z,Partner Delta,Indonesia
+REC-2024-00224,2024,P-TRV,Travel Portfolio,PC-003,SME,Individual,PA,Corporate,Others,Australia,E-Wallet X,Partner Delta,Malaysia
+REC-2024-00225,2024,P-MTR,Motor Portfolio,PC-001,Retail,Individual,Motor,Corporate,ASEAN,Singapore,Bank A,Partner Delta,Malaysia
+REC-2025-00226,2025,P-PA,Personal Accident Portfolio,PC-001,SME,SME,Fire,Corporate,Malaysia,Malaysia,Broker Z,Partner Beta,Malaysia
+REC-2025-00227,2025,P-MTR,Motor Portfolio,PC-001,Retail,Corporate,Motor,Government,Malaysia,Malaysia,Broker Z,Partner Gamma,Singapore
+REC-2025-00228,2025,P-MRN,Marine Portfolio,PC-004,Retail,SME,PA,Government,Malaysia,Malaysia,Broker Z,Partner Alpha,Indonesia
+REC-2025-00229,2025,P-PA,Personal Accident Portfolio,PC-001,SME,SME,Travel,Government,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Indonesia
+REC-2024-00230,2024,P-MED,Medical Portfolio,PC-003,SME,Individual,Medical,Corporate,Malaysia,Malaysia,E-Wallet Y,Partner Alpha,Singapore
+REC-2025-00231,2025,P-TRV,Travel Portfolio,PC-004,Retail,Individual,Motor,Government,Malaysia,Malaysia,E-Wallet X,Partner Beta,Indonesia
+REC-2024-00232,2024,P-TRV,Travel Portfolio,PC-004,SME,SME,PA,Private,Malaysia,Malaysia,E-Wallet X,Partner Beta,Singapore
+REC-2025-00233,2025,P-MTR,Motor Portfolio,PC-001,Commercial,Individual,Medical,Private,Others,USA,E-Wallet Y,Partner Beta,Indonesia
+REC-2024-00234,2024,P-MRN,Marine Portfolio,PC-003,Retail,Individual,Medical,Private,Malaysia,Malaysia,Broker Z,Partner Gamma,Malaysia
+REC-2025-00235,2025,P-MTR,Motor Portfolio,PC-001,Commercial,SME,Motor,Government,Malaysia,Malaysia,Bank B,Partner Alpha,Malaysia
+REC-2025-00236,2025,P-MED,Medical Portfolio,PC-001,SME,SME,Travel,Corporate,Malaysia,Malaysia,E-Wallet Y,Partner Gamma,Singapore
+REC-2024-00237,2024,P-FIR,Fire Portfolio,PC-001,SME,Corporate,PA,Government,Malaysia,Malaysia,E-Wallet X,Partner Beta,Malaysia
+REC-2025-00238,2025,P-MRN,Marine Portfolio,PC-004,Retail,Individual,Fire,Government,Malaysia,Malaysia,Bank A,Partner Gamma,Malaysia
+REC-2025-00239,2025,P-FIR,Fire Portfolio,PC-004,Retail,SME,Motor,Corporate,ASEAN,Philippines,Broker Z,Partner Alpha,Malaysia
+REC-2025-00240,2025,P-MRN,Marine Portfolio,PC-002,Retail,SME,Marine,Government,ASEAN,Vietnam,E-Wallet X,Partner Beta,Malaysia
+REC-2024-00241,2024,P-MED,Medical Portfolio,PC-002,SME,Individual,Fire,Government,ASEAN,Singapore,Broker Z,Partner Beta,Malaysia
+REC-2024-00242,2024,P-FIR,Fire Portfolio,PC-003,Commercial,SME,Travel,Private,ASEAN,Philippines,Broker Z,Partner Delta,Indonesia
+REC-2024-00243,2024,P-MED,Medical Portfolio,PC-004,SME,SME,Medical,Private,Malaysia,Malaysia,E-Wallet Y,Partner Delta,Singapore
+REC-2025-00244,2025,P-PA,Personal Accident Portfolio,PC-001,Commercial,Corporate,Motor,Private,Others,Japan,Bank A,Partner Gamma,Singapore
+REC-2024-00245,2024,P-TRV,Travel Portfolio,PC-001,Retail,SME,Marine,Corporate,ASEAN,Philippines,Bank B,Partner Delta,Singapore
+REC-2024-00246,2024,P-MRN,Marine Portfolio,PC-001,Commercial,SME,Fire,Private,Malaysia,Malaysia,Bank B,Partner Delta,Singapore
+REC-2025-00247,2025,P-MED,Medical Portfolio,PC-004,SME,SME,PA,Government,Malaysia,Malaysia,Broker Z,Partner Beta,Indonesia
+REC-2024-00248,2024,P-PA,Personal Accident Portfolio,PC-002,Retail,Corporate,Motor,Corporate,Malaysia,Malaysia,Broker Z,Partner Alpha,Malaysia
+REC-2025-00249,2025,P-MTR,Motor Portfolio,PC-003,Commercial,Corporate,Fire,Private,ASEAN,Vietnam,Bank A,Partner Alpha,Singapore
+REC-2025-00250,2025,P-TRV,Travel Portfolio,PC-003,SME,Individual,Travel,Private,ASEAN,Thailand,E-Wallet X,Partner Delta,Indonesia
+REC-2024-00251,2024,P-FIR,Fire Portfolio,PC-003,Commercial,SME,Medical,Private,Malaysia,Malaysia,Bank B,Partner Delta,Indonesia
+REC-2025-00252,2025,P-PA,Personal Accident Portfolio,PC-001,Retail,SME,Medical,Private,Malaysia,Malaysia,Broker Z,Partner Delta,Malaysia
+REC-2025-00253,2025,P-MRN,Marine Portfolio,PC-001,Retail,Corporate,Travel,Corporate,Malaysia,Malaysia,E-Wallet X,Partner Delta,Singapore
+REC-2024-00254,2024,P-MRN,Marine Portfolio,PC-004,Commercial,SME,Medical,Private,Malaysia,Malaysia,Bank B,Partner Alpha,Malaysia
+REC-2024-00255,2024,P-FIR,Fire Portfolio,PC-001,SME,Individual,PA,Private,Others,USA,E-Wallet X,Partner Alpha,Malaysia
+REC-2025-00256,2025,P-MRN,Marine Portfolio,PC-002,Retail,SME,Motor,Corporate,ASEAN,Indonesia,Broker Z,Partner Gamma,Malaysia
+REC-2024-00257,2024,P-FIR,Fire Portfolio,PC-002,Retail,Individual,Fire,Private,ASEAN,Philippines,E-Wallet X,Partner Alpha,Indonesia
+REC-2024-00258,2024,P-FIR,Fire Portfolio,PC-004,SME,Individual,Travel,Private,ASEAN,Indonesia,E-Wallet Y,Partner Alpha,Indonesia
+REC-2025-00259,2025,P-MED,Medical Portfolio,PC-003,Retail,Individual,Marine,Government,Malaysia,Malaysia,E-Wallet Y,Partner Gamma,Malaysia
+REC-2025-00260,2025,P-MRN,Marine Portfolio,PC-001,Retail,Corporate,Fire,Private,Others,Japan,Broker Z,Partner Gamma,Singapore
